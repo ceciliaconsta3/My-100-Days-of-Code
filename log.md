@@ -35,7 +35,7 @@ From what I understand and to simplify my findings, we use negative margins when
 * [PHP](https://code.tutsplus.com/tutorials/30-php-best-practices-for-beginners--net-6194)
 
 
-### Day 3: June 29, 2017
+### Day 3: June 30, 2017
 
 **Today's Progress**: Updated My Academy project with some of the CSS knowledge picked up during FCC exercises and best practice links from yesterday.
 
