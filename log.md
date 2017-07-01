@@ -35,6 +35,20 @@ From what I understand and to simplify my findings, we use negative margins when
 * [PHP](https://code.tutsplus.com/tutorials/30-php-best-practices-for-beginners--net-6194)
 
 
+### Day 3: June 29, 2017
+
+**Today's Progress**: Updated My Academy project with some of the CSS knowledge picked up during FCC exercises and best practice links from yesterday.
+
+**Thoughts**: I introduced some Javascript to the landing page. Have an issue with displaying my Bootstrap alert using JS/Jquery. Noticed that sometimes the page refreshes without displaying the alert after clicking submit, while at other times the alert makes a brief appearance. My goal is just to create some sort of follow up action for the users that submit an email, without using PHP or creating a database to hold their data. I'll revisit this once I learn more about forms and finish a few more JS exercises.
+
+**Link(s) to work**:
+* [ASF Project](https://github.com/ceciliaconsta3/The-Academy-of-South-Florida-Student-Project)
+
+
+
+
+
+
 <!--**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
