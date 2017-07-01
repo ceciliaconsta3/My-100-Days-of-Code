@@ -45,6 +45,20 @@ From what I understand and to simplify my findings, we use negative margins when
 * [ASF Project](https://github.com/ceciliaconsta3/The-Academy-of-South-Florida-Student-Project)
 
 
+### Day 4: July 1, 2017
+
+**Today's Progress**: Fixed HTML and some CSS, research some layouts for quote generator.
+
+**Thoughts**: Learned a nice fix for vertically aligning that works with Bootstrap:<br>
+<code>
+min-height:100vh <br>
+display:flex; <br>
+align-items: center; <br>
+</code><br>
+The viewport units are not available across all browsers so a fallback would be to use percentages or pixels. The browser will stop and use whichever is last so a good rule of thumb would be to place the unit you are positive would work above the viewport units.
+
+**Link(s) to work**:
+* [Under Construction - Quote Generator](https://github.com/ceciliaconsta3/Random-Quote-Generator)
 
 
 
