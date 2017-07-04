@@ -45,20 +45,31 @@ From what I understand and to simplify my findings, we use negative margins when
 * [ASF Project](https://github.com/ceciliaconsta3/The-Academy-of-South-Florida-Student-Project)
 
 
-### Day 4: July 1, 2017
+### Day 4: July 2, 2017
 
-**Today's Progress**: Fixed HTML and some CSS, research some layouts for quote generator.
+**Today's Progress**: JQuery exercises in FCC, moved unecessary comments into Task Lists in multiple projects
 
-**Thoughts**: Learned a nice fix for vertically aligning that works with Bootstrap:<br>
-<code>
-min-height:100vh <br>
-display:flex; <br>
-align-items: center; <br>
-</code><br>
-The viewport units are not available across all browsers so a fallback would be to use percentages or pixels. The browser will stop and use whichever is last so a good rule of thumb would be to place the unit you are positive would work above the viewport units.
+**Thoughts**: After some quick research I think a better way to keep track of pending TODO items in a project, aside from code comments, stickies, or Outlook tasks, is creating a TODO or Task List in the ReadMe.md like such:<br>
+<pre>
+### Task List / TODO
+- [ ] App needs to do this
+- [x] Finished!
+</pre>
 
 **Link(s) to work**:
-* [Under Construction - Quote Generator](https://github.com/ceciliaconsta3/Random-Quote-Generator)
+* [JQuery](https://www.freecodecamp.com/ceciliaconsta3)
+
+
+### Day 5: July 3, 2017
+
+**Today's Progress**: Fixed CSS, organized current projects and removed irrelevant or broken code
+
+**Thoughts**: 
+
+**Link(s) to work**:
+* [Tribute Page](https://www.freecodecamp.com/ceciliaconsta3)
+
+
 
 
 
@@ -87,4 +98,12 @@ The viewport units are not available across all browsers so a fallback would be 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+Task List:
+// When user opens a page, grab their location
+// Send a request to the weather API site with the location
+// Receive data
+// Display the degrees on the page
+// Change background image of the page to reflect the current weather
+-->
