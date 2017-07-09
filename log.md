@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+
 ### Day 1: June 28, 2017
 
 **Today's Progress**: Since it's been awhile since I first began the Front End Developer Certificate curriculum in Free Code Camp, I decided to pick u from the beginning, redoing some of the basics and completing the exercises I missed the first time around.
@@ -45,7 +46,27 @@ From what I understand and to simplify my findings, we use negative margins when
 * [ASF Project](https://github.com/ceciliaconsta3/The-Academy-of-South-Florida-Student-Project)
 
 
-### Day 4: July 2, 2017
+### Day 4: July 1, 2017
+
+**Today's Progress**: Added Bootstrap, fixed CSS, added Task List, and cleaned up NCT project file system
+
+**Thoughts**: Rather than using media queries for every screen size, decided to utilize the different column size options already integrated within Bootstrap, revisiting media queries at project completion for final responsiveness check
+
+
+### Day 5: July 2, 2017
+
+**Today's Progress**: Swapped out navigation images and Task List
+
+**Thoughts**: Not much time to code today 
+
+**Link(s) to work**:
+* [NCT Commits](https://github.com/ceciliaconsta3/NCT/commits?author=ceciliaconsta3&since=2017-07-02T04:00:00Z&until=2017-07-03T04:00:00Z
+)
+* [Potree Project Commits](https://github.com/ceciliaconsta3/Potree-Custom-UI/commits?author=ceciliaconsta3&since=2017-07-02T04:00:00Z&until=2017-07-03T04:00:00Z
+)
+
+
+### Day 6: July 3, 2017
 
 **Today's Progress**: JQuery exercises in FCC, moved unecessary comments into Task Lists in multiple projects
 
@@ -60,14 +81,38 @@ From what I understand and to simplify my findings, we use negative margins when
 * [JQuery](https://www.freecodecamp.com/ceciliaconsta3)
 
 
-### Day 5: July 3, 2017
+### Day 7: July 4, 2017
 
-**Today's Progress**: Fixed CSS, organized current projects and removed irrelevant or broken code
+**Today's Progress**: Happy Fourth of July! Fixed CSS, organized current projects, and removed irrelevant or broken code
+
+**Thoughts**: Decided to go through and clean up my code in a few projects with information I've gleamed. At the time I had about 14 repositories open. Seemed a bit munch and I googled what my peers opinions are on this and found a good answer in the link below. Consequently, I realized the quote generator wasn't working! Goes to show how important it is to revisit older projects.
+
+**Link(s) to work**:
+* [Multiple or Few repositories](https://softwareengineering.stackexchange.com/questions/206668/using-multiple-git-repositories-instead-of-a-single-one-containing-many-apps-fro3)
+
+
+### Day 8: July 6, 2017
+
+**Today's Progress**: Page redirect using JavaScript
+
+**Thoughts**: Kept having issues with the splash page not recognizing the scripts added in main.js. After sifting through Stack Overflow,jsfiddles, Developer tools,and a JS validator and after correcting any relative linking discrepancies, I realized that the issue most likely involved scope. The page couldn't access the method inside the code block. I troubleshooted by triple checking syntax, refactoring my own code, and putting the script directly onto the page to see if it truely was a scope issue. I'm left with a working product and much fewer lines of JS.
+
+**Link(s) to work**:
+* [Potree Custom UI](https://github.com/ceciliaconsta3/Potree-Custom-UI
+)
+
+
+### Day 9 July 9, 2017
+
+**Today's Progress**: CSS Loaders
 
 **Thoughts**: 
 
 **Link(s) to work**:
-* [Tribute Page](https://www.freecodecamp.com/ceciliaconsta3)
+* [Git submodule](https://stackoverflow.com/questions/19584255/what-does-a-grey-icon-in-remote-github-mean
+)
+
+
 
 
 
