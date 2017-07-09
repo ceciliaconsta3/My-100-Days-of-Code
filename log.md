@@ -102,14 +102,14 @@ From what I understand and to simplify my findings, we use negative margins when
 )
 
 
-### Day 9 July 9, 2017
+### Day 9: July 9, 2017
 
 **Today's Progress**: CSS Loaders
 
-**Thoughts**: 
+**Thoughts**: Creating a loader was surprisingly simple and allowed me to actually use keyframes and practice making a linear-gradient. Next time around, I'd like to create a full page loader with text (i.e. the kind you get when you look yourself up on one of those suspicious yellow-page sites that tell you they're running a report before they tell you that report cost money). Also, had an issue with turning some directories into submodules. Viewed and removed the hidden git files, recommitted, and pushed it all. That didn't do the trick, but deleting and re-uploading the repository worked fine.
 
 **Link(s) to work**:
-* [Git submodule](https://stackoverflow.com/questions/19584255/what-does-a-grey-icon-in-remote-github-mean
+* [Simple loader](https://stackoverflow.com/qA motivating dashboard filled hopes, dreams, practicality, and tough love
 )
 
 
