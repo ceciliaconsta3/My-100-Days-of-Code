@@ -109,7 +109,7 @@ From what I understand and to simplify my findings, we use negative margins when
 **Thoughts**: Creating a loader was surprisingly simple and allowed me to practice keyframes and making linear-gradients. Next time around, I'd like to create a full page loader with text (i.e. the kind you get when you look yourself up on one of those suspicious yellow-page sites that tell you they're running a report before they tell you that report cost money). Also, had an issue with turning some directories into submodules. Viewed and removed the hidden git files, recommitted, and pushed it all. That didn't do the trick, but deleting and re-uploading the repository worked fine.
 
 **Link(s) to work**:
-* [Simple loader](https://github.com/ceciliaconsta3/NOC-wall)
+* [Simple loader](https://codepen.io/ceciliaconsta3/pen/MoLwBW)
 
 
 ### Day 10: July 11, 2017
