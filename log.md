@@ -106,11 +106,20 @@ From what I understand and to simplify my findings, we use negative margins when
 
 **Today's Progress**: CSS Loaders
 
-**Thoughts**: Creating a loader was surprisingly simple and allowed me to actually use keyframes and practice making a linear-gradient. Next time around, I'd like to create a full page loader with text (i.e. the kind you get when you look yourself up on one of those suspicious yellow-page sites that tell you they're running a report before they tell you that report cost money). Also, had an issue with turning some directories into submodules. Viewed and removed the hidden git files, recommitted, and pushed it all. That didn't do the trick, but deleting and re-uploading the repository worked fine.
+**Thoughts**: Creating a loader was surprisingly simple and allowed me to practice keyframes and making linear-gradients. Next time around, I'd like to create a full page loader with text (i.e. the kind you get when you look yourself up on one of those suspicious yellow-page sites that tell you they're running a report before they tell you that report cost money). Also, had an issue with turning some directories into submodules. Viewed and removed the hidden git files, recommitted, and pushed it all. That didn't do the trick, but deleting and re-uploading the repository worked fine.
 
 **Link(s) to work**:
-* [Simple loader](https://stackoverflow.com/qA motivating dashboard filled hopes, dreams, practicality, and tough love
-)
+* [Simple loader](https://github.com/ceciliaconsta3/NOC-wall)
+
+
+### Day 10: July 11, 2017
+
+**Today's Progress**: Tribute page
+
+**Thoughts**: Decided to fully utilize bootstrap for the FCC Tribute page project. My second time using a carousel slider went much faster this time around. Looking into the documentation to understand exactly what's the function of each class.
+
+**Link(s) to work**:
+* Coming Soon
 
 
 
