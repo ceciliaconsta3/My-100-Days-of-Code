@@ -118,10 +118,15 @@ From what I understand and to simplify my findings, we use negative margins when
 
 **Thoughts**: Decided to fully utilize bootstrap for the FCC Tribute page project. My second time using a carousel slider went much faster this time around. Looking into the documentation to understand exactly what's the function of each class.
 
+
+### Day 11: July 12, 2017
+
+**Today's Progress**: Updated CSS, posted loader to Codepen.io, and changed layout of Tribute page
+
+**Thoughts**: Was requested by a member of the Twitter community to see the linear gradient that I worked on yesterday. I obliged and tweaked what I coded so it looks much more presentable. Noticed that I spend a lot of time iterating through and refactoring my CSS. A solution: incorporate more time into the brainstorming/planning stage.
+
 **Link(s) to work**:
-* Coming Soon
-
-
+* [Simple loader Updated](https://codepen.io/ceciliaconsta3/full/MoLwBW/)
 
 
 
