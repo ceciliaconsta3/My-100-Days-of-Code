@@ -123,7 +123,7 @@ From what I understand and to simplify my findings, we use negative margins when
 
 **Today's Progress**: Updated CSS, posted loader to Codepen.io, and changed layout of Tribute page
 
-**Thoughts**: Was requested by a member of the Twitter community to see the linear gradient that I worked on yesterday. I obliged and tweaked what I coded so it looks much more presentable. Noticed that I spend a lot of time iterating through and refactoring my CSS. A solution: incorporate more time into the brainstorming/planning stage.
+**Thoughts**: Was requested by a member of the Twitter community to see the linear gradient that I worked on yesterday. I obliged and tweaked what I coded so it looks much more presentable. Noticed that I spend a lot of time iterating through and refactoring my CSS. A solution: incorporate more time into the brainstorming/planning stage. It's pretty cool to get a reply on one of my code related tweets. Reminds me that I'm not the only beginner out there. Lastly, due to time constraints, decided to scrap the slider on the Tribute page in favor of a traditional hero image. Must learn to crawl before walking.
 
 **Link(s) to work**:
 * [Simple loader Updated](https://codepen.io/ceciliaconsta3/full/MoLwBW/)
