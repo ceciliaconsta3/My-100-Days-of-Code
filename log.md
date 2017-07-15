@@ -130,7 +130,7 @@ From what I understand and to simplify my findings, we use negative margins when
 
 **Today's Progress**: Created wireframe and HTML/Bootstrap template for new Tribute page
 
-**Thoughts**: Took a deep breath and decided to rollback the scope of the project in favor of exercising my grasp on the fundamentals, implementing KISS (Keep It Simple Stupid)
+**Thoughts**: Took a deep breath and decided to rollback the scope of the project in favor of exercising my grasp on the fundamentals, implementing KISS (Keep It Simple Stupid). As a result, even without the images and other UI elements, the page is already looking better
 
 
 
