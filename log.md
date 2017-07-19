@@ -130,13 +130,32 @@ From what I understand and to simplify my findings, we use negative margins when
 
 **Today's Progress**: Created wireframe and HTML/Bootstrap template for new Tribute page
 
-**Thoughts**: Took a deep breath and decided to rollback the scope of the project in favor of exercising my grasp on the fundamentals, implementing KISS (Keep It Simple Stupid). As a result, even without the images and other UI elements, the page is already looking better
+**Thoughts**: Took a deep breath and decided to rollback the scope of the project in favor of exercising my grasp on the fundamentals, implementing KISS (Keep It Simple Stupid). As a result, even without the images and other UI elements, the page is already looking better.
+
+
+### Day 13: July 19, 2017
+
+**Today's Progress**: Added CSS to the tribute page
+
+**Thoughts**: Hectic last few days with family, coursework, work, tutorials, and errands. Re-evaluated my schedule and recommitting myself to the challenge. Seriously. Plan to finish the tribute page project on the next day of coding.
+
+
+
+<!-- Template
+
+
+### Day : July 16, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work:** []()
 
 
 
 
-
-<!--**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
