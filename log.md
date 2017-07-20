@@ -140,9 +140,25 @@ From what I understand and to simplify my findings, we use negative margins when
 **Thoughts**: Hectic last few days with family, coursework, work, tutorials, and errands. Re-evaluated my schedule and recommitting myself to the challenge. Seriously. Plan to finish the tribute page project on the next day of coding.
 
 
+### Day 14: July 20, 2017
+
+**Today's Progress**: Just a few more iterative tweaks and voila! FCC Tribute page has been completed
+
+**Thoughts**:  Thrilled that I took my own advice and in doing so, eliminated needless stress. Though the final product is a bit simple and static, I know it's just one step towards a polished future.
+
+**Link to work:** [Tribute Page](https://s.codepen.io/ceciliaconsta3/debug/weVvBd/DqADdEQGnxoA)
+
+
+
+
+
+
+
+
+
+
 
 <!-- Template
-
 
 ### Day : July 16, 2017
 
