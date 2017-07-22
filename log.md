@@ -149,6 +149,13 @@ From what I understand and to simplify my findings, we use negative margins when
 **Link to work:** [Tribute Page](https://s.codepen.io/ceciliaconsta3/debug/weVvBd/DqADdEQGnxoA)
 
 
+### Day 15: July 21, 2017
+
+**Today's Progress**: Worked on wireframe for FCC Portfolio project, researched, and created template 
+
+**Thoughts**: It's true what they say; confidence is built on small victories
+
+
 
 
 
