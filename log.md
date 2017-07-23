@@ -156,6 +156,10 @@ From what I understand and to simplify my findings, we use negative margins when
 **Thoughts**: It's true what they say; confidence is built on small victories
 
 
+### Day 16: July 22, 2017
+
+**Today's Progress**: Worked on Bootstrap html bones for portfolio page, tweaked layout, toned down some ideas
+
 
 
 
