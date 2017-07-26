@@ -161,8 +161,31 @@ From what I understand and to simplify my findings, we use negative margins when
 **Today's Progress**: Worked on Bootstrap html bones for portfolio page, tweaked layout, toned down some ideas
 
 
+### Day 17: July 23, 2017
+
+**Today's Progress**: Created a github.io page to host my FCC projects currently sitting in Codepen.io. 
+
+**Thoughts**: Decided to create a github.io page for host my FCC projects and such. Heard its all the rage
+
+**Link to work:** [New for live project viewing](https://ceciliaconsta3.github.io)
 
 
+### Day 18: July 25, 2017
+
+**Today's Progress**: Updated CSS 
+
+**Thoughts**: Briefly dissecting sticky header tutorials 
+
+**Reference**: [Codepen Example](https://codepen.io/anon/pen/qEemdp)
+
+
+### Day 19: July 26, 2017
+
+**Today's Progress**: Created alternate class to be called by sticky header function 
+
+**Thoughts**: Took a step back from the functionality behind sticky headers to actually modify the alternative CSS itself. Wondering if I should make the files live while they're under construction or wait until the finished product is ready. There's a saying going around that goes something like "ship often, fail fast." Meanwhile, the kiosk project is underway again. Next item on the list to learn is how to bind events to dynamically generated HTML pages using JS/JQuery.
+
+ 
 
 
 
