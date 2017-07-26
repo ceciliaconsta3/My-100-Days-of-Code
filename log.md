@@ -11,6 +11,7 @@
 * [My Activity](https://www.freecodecamp.com/ceciliaconsta3)
 
 
+
 ### Day 2: June 29, 2017
 
 **Today's Progress**: Finished the remaining 18 exercises in the HTML/CSS portion of the Front End Development Certificate (FEDC). Subsequently researched  HTML/CSS/JS/PHP best practice reference material.
@@ -36,6 +37,7 @@ From what I understand and to simplify my findings, we use negative margins when
 * [PHP](https://code.tutsplus.com/tutorials/30-php-best-practices-for-beginners--net-6194)
 
 
+
 ### Day 3: June 30, 2017
 
 **Today's Progress**: Updated My Academy project with some of the CSS knowledge picked up during FCC exercises and best practice links from yesterday.
@@ -46,11 +48,13 @@ From what I understand and to simplify my findings, we use negative margins when
 * [ASF Project](https://github.com/ceciliaconsta3/The-Academy-of-South-Florida-Student-Project)
 
 
+
 ### Day 4: July 1, 2017
 
 **Today's Progress**: Added Bootstrap, fixed CSS, added Task List, and cleaned up NCT project file system
 
 **Thoughts**: Rather than using media queries for every screen size, decided to utilize the different column size options already integrated within Bootstrap, revisiting media queries at project completion for final responsiveness check
+
 
 
 ### Day 5: July 2, 2017
@@ -64,6 +68,7 @@ From what I understand and to simplify my findings, we use negative margins when
 )
 * [Potree Project Commits](https://github.com/ceciliaconsta3/Potree-Custom-UI/commits?author=ceciliaconsta3&since=2017-07-02T04:00:00Z&until=2017-07-03T04:00:00Z
 )
+
 
 
 ### Day 6: July 3, 2017
@@ -81,6 +86,7 @@ From what I understand and to simplify my findings, we use negative margins when
 * [JQuery](https://www.freecodecamp.com/ceciliaconsta3)
 
 
+
 ### Day 7: July 4, 2017
 
 **Today's Progress**: Happy Fourth of July! Fixed CSS, organized current projects, and removed irrelevant or broken code
@@ -89,6 +95,7 @@ From what I understand and to simplify my findings, we use negative margins when
 
 **Link(s) to work**:
 * [Multiple or Few repositories](https://softwareengineering.stackexchange.com/questions/206668/using-multiple-git-repositories-instead-of-a-single-one-containing-many-apps-fro3)
+
 
 
 ### Day 8: July 6, 2017
@@ -102,6 +109,7 @@ From what I understand and to simplify my findings, we use negative margins when
 )
 
 
+
 ### Day 9: July 9, 2017
 
 **Today's Progress**: CSS Loaders
@@ -112,11 +120,13 @@ From what I understand and to simplify my findings, we use negative margins when
 * [Simple loader](https://codepen.io/ceciliaconsta3/pen/MoLwBW)
 
 
+
 ### Day 10: July 11, 2017
 
 **Today's Progress**: Tribute page
 
 **Thoughts**: Decided to fully utilize bootstrap for the FCC Tribute page project. My second time using a carousel slider went much faster this time around. Looking into the documentation to understand exactly what's the function of each class.
+
 
 
 ### Day 11: July 12, 2017
@@ -126,6 +136,7 @@ From what I understand and to simplify my findings, we use negative margins when
 **Thoughts**: Was requested by a member of the Twitter community to see the linear gradient that I worked on yesterday. I obliged and tweaked what I coded so it looks much more presentable. Noticed that I spend a lot of time iterating through and refactoring my CSS. A solution: incorporate more time into the brainstorming/planning stage. It's pretty cool to get a reply on one of my code related tweets. Reminds me that I'm not the only beginner out there. Lastly, due to time constraints, decided to scrap the slider on the Tribute page in favor of a traditional hero image. Must learn to crawl before walking.
 
 
+
 ### Day 12: July 14, 2017
 
 **Today's Progress**: Created wireframe and HTML/Bootstrap template for new Tribute page
@@ -133,11 +144,13 @@ From what I understand and to simplify my findings, we use negative margins when
 **Thoughts**: Took a deep breath and decided to rollback the scope of the project in favor of exercising my grasp on the fundamentals, implementing KISS (Keep It Simple Stupid). As a result, even without the images and other UI elements, the page is already looking better.
 
 
+
 ### Day 13: July 19, 2017
 
 **Today's Progress**: Added CSS to the tribute page
 
 **Thoughts**: Hectic last few days with family, coursework, work, tutorials, and errands. Re-evaluated my schedule and recommitting myself to the challenge. Seriously. Plan to finish the tribute page project on the next day of coding.
+
 
 
 ### Day 14: July 20, 2017
@@ -149,6 +162,7 @@ From what I understand and to simplify my findings, we use negative margins when
 **Link to work:** [Tribute Page](https://s.codepen.io/ceciliaconsta3/debug/weVvBd/DqADdEQGnxoA)
 
 
+
 ### Day 15: July 21, 2017
 
 **Today's Progress**: Worked on wireframe for FCC Portfolio project, researched, and created template 
@@ -156,9 +170,11 @@ From what I understand and to simplify my findings, we use negative margins when
 **Thoughts**: It's true what they say; confidence is built on small victories
 
 
+
 ### Day 16: July 22, 2017
 
 **Today's Progress**: Worked on Bootstrap html bones for portfolio page, tweaked layout, toned down some ideas
+
 
 
 ### Day 17: July 23, 2017
@@ -170,6 +186,7 @@ From what I understand and to simplify my findings, we use negative margins when
 **Link to work:** [New for live project viewing](https://ceciliaconsta3.github.io)
 
 
+
 ### Day 18: July 25, 2017
 
 **Today's Progress**: Updated CSS 
@@ -179,12 +196,22 @@ From what I understand and to simplify my findings, we use negative margins when
 **Reference**: [Codepen Example](https://codepen.io/anon/pen/qEemdp)
 
 
+
 ### Day 19: July 26, 2017
 
 **Today's Progress**: Created alternate class to be called by sticky header function 
 
 **Thoughts**: Took a step back from the functionality behind sticky headers to actually modify the alternative CSS itself. Wondering if I should make the files live while they're under construction or wait until the finished product is ready. There's a saying going around that goes something like "ship often, fail fast." Meanwhile, the kiosk project is underway again. Next item on the list to learn is how to bind events to dynamically generated HTML pages using JS/JQuery.
 
+
+
+### Day 20: July 26, 2017
+
+**Today's Progress**: Fiddled a bit with the FCC Portfolio page JS and then started the FCC JavaScript unit.
+
+**Thoughts**: Halfway through copy/paste and chill, switched over to FCC to complete about 25 JavaScript fundamental exercises. Needed a change of pace since I've been getting frustrated with finding the right set of classes to apply the sticky header rules to on the Portfolio page project. On another note, completely bewildered with the Kiosk project and trying to sucessfully add an event to a dynamically loaded navigation toolbar on a dynamically loaded page. :grimacing: :tea: Great time to grasp JS/JQuery if any.
+
+**Link to work:** [FCC Javascript Course began](https://www.freecodecamp.com/ceciliaconsta3)
  
 
 
@@ -194,7 +221,7 @@ From what I understand and to simplify my findings, we use negative margins when
 
 <!-- Template
 
-### Day : July 16, 2017
+### Day : July , 2017
 
 **Today's Progress**: 
 
@@ -211,14 +238,6 @@ From what I understand and to simplify my findings, we use negative margins when
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
