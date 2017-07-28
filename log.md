@@ -217,7 +217,7 @@ From what I understand and to simplify my findings, we use negative margins when
 
 ### Day 21: July 27, 2017
 
-**Today's Progress**: Add some CSS animations and corrected formatting issues
+**Today's Progress**: Added some CSS animations and corrected minor issues
 
 **Thoughts**: Practiced a few transition styles, and decided to stick with a simple fade for the Portfolio page project. Eager to apply what I'm learning from the FCC JS section to my projects. For now, soaking it all in and drilling the exercises.
 
