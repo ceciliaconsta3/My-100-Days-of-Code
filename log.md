@@ -229,7 +229,7 @@ From what I understand and to simplify my findings, we use negative margins when
 
 **Today's Progress**: Started Javascript module of the FCC curriculum
 
-**Thoughts**: Add animations to the header text of the Portfolio project. I committed the changes and refreshed my browser but noticed that hte project is not rendering the sample on github.io as it is locally. It definitely has something to do with the relevant linking issues users have been commenting on when using github pages. For now, decided to take a break and jump into Javascript module in FCC to see if I can learn enough to implement the sticky navigation onscroll changes I have in mind. Though I've found several example projects online, none of them seemed to work correctly within my one page site. Rather than copy/pasting away, I think it would be more conducive to my learning if I go ahead and learn more about the fundamentals of Javascript before grinding away on that feature.
+**Thoughts**: Add animations to the header text of the Portfolio project. I committed the changes and refreshed my browser but noticed that hte project is not rendering the sample on github.io as it is locally. It definitely has something to do with the relevant linking issues users have been commenting on when using github pages. For now, decided to take a break and jump into Javascript module in FCC to see if I can learn enough to implement the sticky navigation onscroll changes I have in mind. Though I've found several example projects online, none of them seemed to work correctly within my one page site. Rather than copy/pasting away, I think it would be more educational to go ahead and learn more about the fundamentals of Javascript before grinding away on that feature.
 
 **Link to work:** [FCC Portfolio project updates](https://github.com/ceciliaconsta3/ceciliaconsta3.github.io/commits/master)
 
@@ -237,11 +237,11 @@ From what I understand and to simplify my findings, we use negative margins when
 
 ### Day 23 : July 30, 2017
 
-**Today's Progress**: Completed array exercises on FCC
+**Today's Progress**: Started the array exercises on FCC
 
-**Thoughts**: Woke up bright and early and returned late night yesterday positively exhausting, so no homework no coding :sadface: Fortunately, today I got to work through more exercises in FCC
+**Thoughts**: Yesterday I woke up bright and early and returned home positively exhaused, so no homework no coding nothing. :worried: Fortunately, today I got to work through more exercises in FCC!
 
-**Link to work:** [FCC Activity Grid](https://www.freecodecamp.org/ceciliaconsta3)
+**Link to work:** [Updated FCC Activity Grid](https://www.freecodecamp.org/ceciliaconsta3)
 
 
 
