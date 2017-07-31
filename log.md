@@ -249,6 +249,7 @@ From what I understand and to simplify my findings, we use negative margins when
 
 
 <!-- Template
+//https://uxplanet.org/mobile-design-best-practices-2d16d37ecfe
 
 ### Day : July , 2017
 
