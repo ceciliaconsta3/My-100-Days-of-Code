@@ -212,7 +212,7 @@ From what I understand and to simplify my findings, we use negative margins when
 **Thoughts**: Halfway through copy/paste and chill, switched over to FCC to complete about 25 JavaScript fundamental exercises. Needed a change of pace since I've been getting frustrated with finding the right set of classes to apply the sticky header rules to on the Portfolio page project. On another note, completely bewildered with the Kiosk project and trying to sucessfully add an event to a dynamically loaded navigation toolbar on a dynamically loaded page. :grimacing: :tea: Great time to grasp JS/JQuery if any.
 
 **Link to work:** [FCC Javascript Course began](https://www.freecodecamp.com/ceciliaconsta3)
- 
+
 
 
 ### Day 21: July 27, 2017
@@ -222,6 +222,27 @@ From what I understand and to simplify my findings, we use negative margins when
 **Thoughts**: Practiced a few transition styles, and decided to stick with a simple fade for the Portfolio page project. Eager to apply what I'm learning from the FCC JS section to my projects. For now, soaking it all in and drilling the exercises.
 
 **Link to work:** [FCC Portfolio Page](https://ceciliaconsta3.github.io)
+
+
+
+### Day 22 : July 28, 2017
+
+**Today's Progress**: Started Javascript module of the FCC curriculum
+
+**Thoughts**: Add animations to the header text of the Portfolio project. I committed the changes and refreshed my browser but noticed that hte project is not rendering the sample on github.io as it is locally. It definitely has something to do with the relevant linking issues users have been commenting on when using github pages. For now, decided to take a break and jump into Javascript module in FCC to see if I can learn enough to implement the sticky navigation onscroll changes I have in mind. Though I've found several example projects online, none of them seemed to work correctly within my one page site. Rather than copy/pasting away, I think it would be more conducive to my learning if I go ahead and learn more about the fundamentals of Javascript before grinding away on that feature.
+
+**Link to work:** [FCC Portfolio project updates](https://github.com/ceciliaconsta3/ceciliaconsta3.github.io/commits/master)
+
+
+
+### Day 23 : July 30, 2017
+
+**Today's Progress**: Completed array exercises on FCC
+
+**Thoughts**: Woke up bright and early and returned late night yesterday positively exhausting, so no homework no coding :sadface: Fortunately, today I got to work through more exercises in FCC
+
+**Link to work:** [FCC Activity Grid](https://www.freecodecamp.org/ceciliaconsta3)
+
 
 
 
@@ -238,8 +259,7 @@ From what I understand and to simplify my findings, we use negative margins when
 **Link to work:** []()
 
 
-
-
+Example #1
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
@@ -247,7 +267,7 @@ From what I understand and to simplify my findings, we use negative margins when
 **Link to work:** [Calculator App](http://www.example.com)
 
 
-
+Example #2
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -258,10 +278,3 @@ From what I understand and to simplify my findings, we use negative margins when
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
-Task List:
-// When user opens a page, grab their location
-// Send a request to the weather API site with the location
-// Receive data
-// Display the degrees on the page
-// Change background image of the page to reflect the current weather
--->
