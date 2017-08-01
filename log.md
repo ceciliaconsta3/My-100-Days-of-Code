@@ -245,13 +245,24 @@ From what I understand and to simplify my findings, we use negative margins when
 
 
 
+### Day 24: August 1, 2017
+
+**Today's Progress**: Worked through FCC exercises
+
+**Thoughts**: Topics of the day were manipulating arrays and queue's and operators
+
+**Link to work:** 
+* [First exercise](https://www.freecodecamp.org/challenges/access-multidimensional-arrays-with-indexes)
+* [Last exercise](https://www.freecodecamp.org/challenges/comparisons-with-the-logical-or-operator)
+
+
 
 
 
 <!-- Template
 //https://uxplanet.org/mobile-design-best-practices-2d16d37ecfe
 
-### Day : July , 2017
+### Day : August , 2017
 
 **Today's Progress**: 
 
