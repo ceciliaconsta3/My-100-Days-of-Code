@@ -277,6 +277,14 @@ Creating a WordPress plugin:
 •	One of many boilerplates - https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
 •	Plugin Folder Structure - https://developer.wordpress.org/plugins/the-basics/best-practices/#folder-structure
 
+Heading your custom work:
+	/**
+	  * Plugin Name: Kitten Detector
+	  * Plugin URI: 
+	  * Description: Plugin for displaying Kittens
+	  * Version 1.0.0
+	  * Author:
+	  */
 
 Example #1
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
