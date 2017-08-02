@@ -270,6 +270,13 @@ From what I understand and to simplify my findings, we use negative margins when
 
 **Link to work:** []()
 
+Notes to pick back up later:
+Creating a WordPress plugin:
+•	Official Plugin Developer Handbook - https://developer.wordpress.org/plugins/
+•	Plugin Best Practices - https://developer.wordpress.org/plugins/the-basics/best-practices/
+•	One of many boilerplates - https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
+•	Plugin Folder Structure - https://developer.wordpress.org/plugins/the-basics/best-practices/#folder-structure
+
 
 Example #1
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
