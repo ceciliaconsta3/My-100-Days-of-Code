@@ -256,6 +256,15 @@ From what I understand and to simplify my findings, we use negative margins when
 * [Last exercise](https://www.freecodecamp.org/challenges/comparisons-with-the-logical-or-operator)
 
 
+### Day 25: August 2, 2017
+
+**Today's Progress**: Using if/else if/else and switches in FCC
+
+**Thoughts**: The last exercise made me do a double take when I inserted <pre>breaks;</pre> into my switch and they were flagged by the editor. I'm glad it did because it caused me to take a better look at how I was counting <pre>card</pre> (see increment operators on left side :laughing: that's how careful I was being). This was the first time I got all the way up to Hint #3, but it was important to see that I didn't have to count the cards and test the parameters all within my switch (which was what I was trying to do in my first attempt). Though the code could have been more elegant, I'm satisfied that I got it done. Feeling great, like I just solved my first real logic based mini-challenge!
+
+**Link to work:** 
+* [First](https://www.freecodecamp.org/challenges/counting-cards)
+* [Last](https://www.freecodecamp.org/challenges/introducing-else-statements)
 
 
 
