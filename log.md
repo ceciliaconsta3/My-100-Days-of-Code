@@ -268,6 +268,20 @@ From what I understand and to simplify my findings, we use negative margins when
 
 
 
+### Day 26: August 3, 2017
+
+**Today's Progress**: Learning how to manipulate objects
+
+**Thoughts**: Definitely feel like the learning curve on JS is slowing getting steeper.Had to go back to the [introduction to object lookup](https://www.freecodecamp.org/challenges/using-objects-for-lookups) example to remind myself how to capture the lookups result. Definitely need to add some time for drilling, making sure I cement in this lovely knowledge.
+
+* [First Exercise](https://www.freecodecamp.org/challenges/logical-order-in-if-else-statements)
+* [Last Exercise](https://www.freecodecamp.org/challenges/testing-objects-for-properties)
+
+
+
+
+
+
 <!-- Template
 //https://uxplanet.org/mobile-design-best-practices-2d16d37ecfe
 
@@ -277,7 +291,8 @@ From what I understand and to simplify my findings, we use negative margins when
 
 **Thoughts**: 
 
-**Link to work:** []()
+* [First Exercise]()
+* [Last Exercise]()
 
 Notes to pick back up later:
 Creating a WordPress plugin:
