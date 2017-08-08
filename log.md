@@ -279,11 +279,33 @@ From what I understand and to simplify my findings, we use negative margins when
 
 
 
+### Day 27: August 7, 2017
+
+**Today's Progress**: Updated CSS and added PHP email handling
+
+**Thoughts**: Took a few days off all other extracurricular activities to deal with work issues, school deadlines, and car trouble. Taking a break from the Javascript courses as well after reading an interesting article about perfectionism in learning web development. It mentioned that it's a common occurence in women and career changers (wow double whammy) to hold off finishing a project in order to keep updating or adding new features. Alternatively, a better approach would be to create multiple little one page projects showcasing the thing and then creating a normal sized project showcasing those little things you were practicing.
+
+In light of this, I've decided to just go ahead and finish up the portfolio page. All I have left to do is to add an "About Me" blurb, animate the portfolio images in some way, and get a simplified version of the project up on codepen. Ultimately, the portfolio project will be hosted on Github pages so that I continue to maintain it publicly as I complete more projects.
+
+<!-- On another note, I'm quickly learning at my internship that words are everything. The incompetent becomes an expert with just the right turn of phrase. I've never been a particularly eloquent or articulate person and I don't think it's ever been more evident. Funny, that in my 3 years working in a highly technical laboratory environment, this has never been an issue. Now, I found my syntax and sentence phrasing being ridiculed by those who don't know the first thing about nested variables or scope (my topic of the week) due to this weakness. I'm becoming quite discouraged with my own abilities and with asking clarifying questions and discussing my viewpoints. Tech communication is brutal and if any indication of this one experience, is filled with folks who freely give jargon-filled advice but are not so free with practical application.
+
+Today I was told that to be a developer that's worth anything, working just 8 hours a day is unacceptable and that every developer worth a damn goes home afterwards to teach themselves how to do their work, sacrificing sleep. I agree with this to some extent. I just don't agree with the demeaning intent in which it was said. If you are passionate about something, sometimes that happens. You get wonderfully carried away in your project, or you just want to solve that problem before going to bed. Just a little more you say. That's also how you get burn out. I can't imagine a doctor being on call for days straight routinely going home to study his medical school textbooks with little sleep.
+	For some context, the apps our overseas developers have built are producing several bugs because they just don't have time to perform unit testing or use the test cases we've created. If these professional developers, working 12-14 hour days,ship out bug-ridden code due to lack of time, why is that same logic applied to an intern/full-time student with significantly less knowledge and technical prowess?
+
+As a wife, student, and pet owner working upwards of 30 hours a week, volunteering about once a week, while helping a small business with their product/inventory management, shipping issues, and Magento website, I felt like the vessel who gave that wonderful advice was purely speaking of themselves as the prime example of what a developer should be. Except that they aren't a developer. They often confuse Java with JavaScript, and quickly employ the "google it" approach when I ask specific questions on utilizing the tools they assigned me to use.  -->
+
+
+
+
+
+
+
+
+
 
 
 
 <!-- Template
-//https://uxplanet.org/mobile-design-best-practices-2d16d37ecfe
 
 ### Day : August , 2017
 
@@ -294,12 +316,15 @@ From what I understand and to simplify my findings, we use negative margins when
 * [First Exercise]()
 * [Last Exercise]()
 
-Notes to pick back up later:
-Creating a WordPress plugin:
+## Notes to pick back up later:
+### Creating a WordPress plugin:
 •	Official Plugin Developer Handbook - https://developer.wordpress.org/plugins/
 •	Plugin Best Practices - https://developer.wordpress.org/plugins/the-basics/best-practices/
 •	One of many boilerplates - https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
 •	Plugin Folder Structure - https://developer.wordpress.org/plugins/the-basics/best-practices/#folder-structure
+
+### Read later:
+* //https://uxplanet.org/mobile-design-best-practices-2d16d37ecfe
 
 Heading your custom work:
 	/**
@@ -309,6 +334,11 @@ Heading your custom work:
 	  * Version 1.0.0
 	  * Author:
 	  */
+
+
+
+
+
 
 Example #1
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
