@@ -14,7 +14,7 @@ For every day I code outside of work, I will post, update, and share a repo of w
 Since I'm still new to web and software development, the only exceptions to coding days would be those spent learning through completing the FreeCodeCamp’s Front End Curriculum. The goal is to progress in sound practical knowledge and skills, not breezing through the curriculum for bragging rights. During these days, I'll share a few code snippets or link to some awesome resource I found. 
 
 ## Contents
-* [Log - click here to see my progress](log.md)
+* [My progress](log.md)
 * [Resources](resources.md)
 
 ## Note
