@@ -2,14 +2,12 @@
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
-### Articles
+## Main Articles
 1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)  
 2. [What I learned from the Job Hunt](https://forum.freecodecamp.org/t/i-got-the-job-heres-what-ive-learned-from-the-job-hunt/137709/6) 
 3. [Striving for Perfection is holding you back](https://medium.freecodecamp.org/why-striving-for-perfection-might-be-holding-you-back-as-a-newbie-web-developer-6e8ae257751f)
 
-### Podcasts
-
-## Helpful Articles
+### Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 2. [Negative Margins](http://css-101.org/negative-margin/index.php)
 3. [HTML Best Practices for Beginners](https://code.tutsplus.com/tutorials/30-html-best-practices-for-beginners--net-4957)
@@ -20,10 +18,10 @@
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 
-## Other resources
-1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
-
 ## Books (both coding and non-coding)
+
+### Other resources
+1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 
 ## Contents
 * [Overview](readme.md)
