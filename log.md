@@ -323,9 +323,7 @@ From what I understand and to simplify my findings, we use negative margins when
 
 ## Notes to pick back up later:
 
-https://hbr.org/2016/07/6-ways-to-make-the-most-of-your-internship
-http://lifehacker.com/how-can-i-get-the-most-out-of-my-internship-1168904419
-http://www.askamanager.org/2013/04/my-manager-is-excluding-me-from-important-conversations.html
+
 
 ### Creating a WordPress plugin:
 •	Official Plugin Developer Handbook - https://developer.wordpress.org/plugins/
