@@ -20,6 +20,12 @@
 
 ## Books (both coding and non-coding)
 
+### Coding
+
+
+### Non-coding
+1. Grit: The Power of Passion and Perserverance by Angela Duckworth
+
 ### Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 
