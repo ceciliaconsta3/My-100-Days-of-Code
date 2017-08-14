@@ -322,6 +322,10 @@ From what I understand and to simplify my findings, we use negative margins when
 * [Last Exercise]()
 
 ## Notes to pick back up later:
+
+https://hbr.org/2016/07/6-ways-to-make-the-most-of-your-internship
+http://lifehacker.com/how-can-i-get-the-most-out-of-my-internship-1168904419
+
 ### Creating a WordPress plugin:
 •	Official Plugin Developer Handbook - https://developer.wordpress.org/plugins/
 •	Plugin Best Practices - https://developer.wordpress.org/plugins/the-basics/best-practices/
