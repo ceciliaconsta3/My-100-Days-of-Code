@@ -1,12 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 28: August 11, 2017
+### Day 29(Reboot): August 22, 2017
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 * [First Exercise]()
+* [Last Exercise]()
+
+
+
+### Day 28: August 19, 2017
+
+**Today's Progress**: I attended the first Free Code Camp Boca Raton group meeting.
+
+**Thoughts**: After much soul searching, I've decided to continue this challenge from where I left off. The members part of the [Gitter](https://gitter.im/Kallaway/100DaysOfCode) channel were an incredibly positive, understanding, and encouraging part in this, helping me to pull myself out of the muck. On another note, finally meeting up with local FCC members I've kept in contact with on social media, was a rewarding experience. Inspiring to see people of different levels coming together to code and learn together. I asked questions and got answers. I got asked questions and was able to provide solid input. Love it, exactly why I'm pursuing a career in software development. 
+
+**Link to work:**
+* [First Exercise](https://www.freecodecamp.org/challenges/accessing-nested-objects)
+* [Last Exercise](https://www.freecodecamp.org/challenges/iterate-through-an-array-with-a-for-loop)
 
 
 
@@ -32,6 +45,7 @@ As a wife, student, and pet owner working upwards of 30 hours a week, volunteeri
 
 **Thoughts**: Definitely feel like the learning curve on JS is slowing getting steeper.Had to go back to the [introduction to object lookup](https://www.freecodecamp.org/challenges/using-objects-for-lookups) example to remind myself how to capture the lookups result. Definitely need to add some time for drilling, making sure I cement in this lovely knowledge.
 
+**Links to work:**
 * [First Exercise](https://www.freecodecamp.org/challenges/logical-order-in-if-else-statements)
 * [Last Exercise](https://www.freecodecamp.org/challenges/testing-objects-for-properties)
 
@@ -43,7 +57,7 @@ As a wife, student, and pet owner working upwards of 30 hours a week, volunteeri
 
 **Thoughts**: The last exercise made me do a double take when I inserted <code>breaks;</code> into my switch and they were flagged by the editor. I'm glad it did because it caused me to take a better look at how I was counting <code>card</code> (see increment operators on left side :laughing: that's how careful I was being). This was the first time I got all the way up to Hint #3, but it was important to see that I didn't have to count the cards and test the parameters all within my switch (which was what I was trying to do in my first attempt). Though the code could have been more elegant, I'm satisfied that I got it done. Feeling great, like I just solved my first real logic based mini-challenge!
 
-**Link to work:** 
+**Links to work:** 
 * [First Exercise](https://www.freecodecamp.org/challenges/counting-cards)
 * [Last Exercise](https://www.freecodecamp.org/challenges/introducing-else-statements)
 
