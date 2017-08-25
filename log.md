@@ -6,14 +6,21 @@
 
 **Thoughts**: 
 
-* [First Exercise]()
-* [Last Exercise]() -->
+**Link to work:**
+* []() -->
+
+### Day 32: August 25, 2017
+
+**Today's Progress**: Submitted first Pull Request (PR)
+
+**Thoughts**: Submitted changes based on an open maintenance issue I enthusiastically offered to address. My task was simply to update license documentation in dependency files. As small as the changes were, I'm happy to be able to make some contribution to a project I've been watching over the last few months. I hope that the reviewers of my PR can find the commits useful.
+
+**Link to work:**
+* [First Open-Source Project PR](https://github.com/potree/potree/pull/389) 
 
 
 
-
-
-### Day 31: August 23, 2017 [in progress]
+### Day 31: August 23, 2017 
 
 **Today's Progress**: Used a <code>for</code> loop to look up properties in an array
 
