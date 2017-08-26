@@ -9,6 +9,26 @@
 **Link to work:**
 * []() -->
 
+
+
+
+
+
+
+
+
+
+### Day 33: August 26, 2017
+
+**Today's Progress**: Practiced creating loops
+
+**Thoughts**: Getting some supplemental instruction through Codecademy today. Slowly getting comfortable with looping through arrays.
+
+**Link to work:**
+* [CodePen](https://codepen.io/ceciliaconsta3/full/Ojovbw/)
+
+
+
 ### Day 32: August 25, 2017
 
 **Today's Progress**: Submitted first Pull Request (PR)
