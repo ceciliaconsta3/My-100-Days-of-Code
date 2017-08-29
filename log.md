@@ -15,7 +15,14 @@
 
 
 
+### Day 34: August 28, 2017
 
+**Today's Progress**: Using the <code>Random</code> function
+
+**Thoughts**: Did an hour in <em>Sams Teach Yourself jQuery and JavaScript in 24 hours</em> and suprisingly the first lesson touched on the random method I was itching to find yesterday. Created a simple pen.
+
+**Link to work:**
+* [Roaming Color Changing Button](https://codepen.io/ceciliaconsta3/full/prxQKX/)
 
 
 ### Day 33: August 26, 2017
