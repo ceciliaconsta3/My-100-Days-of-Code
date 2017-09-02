@@ -11,7 +11,14 @@
 
 
 
+### Day 35: Sept 2, 2017
 
+**Today's Progress**: Modified CSS and created live link to previous project
+
+**Thoughts**: Spent the last few days away to focus on passing the A+ 220-902 exam for course credit! Used [Codepen](http://codepen.io) so that all of my repositories have a live link attached. If I get more free time I'd like to clone this project using the knowledge I now possess rather than googling every aspect in order to finish it for a course deadline.
+
+**Link to work:**
+* [Bootstrap Calculator](https://codepen.io/ceciliaconsta3/full/rzRNMv/)
 
 
 
