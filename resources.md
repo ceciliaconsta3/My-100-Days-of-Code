@@ -21,7 +21,7 @@
 ## Books (both coding and non-coding)
 
 #### Coding
-1. 
+
 
 #### Non-coding
 1. Grit: The Power of Passion and Perserverance by Angela Duckworth
