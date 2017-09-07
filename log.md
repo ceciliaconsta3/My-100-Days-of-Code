@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!-- Template
-### Day : August , 2017
+### Day : September , 2017
 
 **Today's Progress**: 
 
@@ -9,6 +9,21 @@
 **Link to work:**
 * []() -->
 
+
+
+
+
+
+
+
+### Day 36: September 5, 2017
+
+**Today's Progress**: Modified CSS
+
+**Thoughts**: Received one piece of feedback for the web calculator and that is to implement keyboard shortcuts. Will spend some time researching what that would entail. Falls in line with my thoughts on including accessibility in future projects.
+
+**Link to work:**
+* [Keyboard Shortcut comment](https://twitter.com/kylegalbraith/status/904130272106504192)
 
 
 ### Day 35: Sept 2, 2017
