@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 <!-- Template
 ### Day : September , 2017
-
 **Today's Progress**: 
 
 **Thoughts**: 
@@ -10,9 +9,9 @@
 * []() -->
 
 
+### September 7-14, 2017
 
-
-
+**Today's Progress**: On hold - Preparing, experiencing, and recouping from Hurricane Irma
 
 
 
