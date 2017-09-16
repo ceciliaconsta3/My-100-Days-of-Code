@@ -9,7 +9,7 @@
 * []() -->
 
 
-### September 7-14, 2017
+### September 7-17, 2017
 
 **Today's Progress**: On hold - Preparing, experiencing, and recouping from Hurricane Irma
 
