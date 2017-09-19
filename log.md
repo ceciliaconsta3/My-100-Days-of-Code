@@ -2,11 +2,19 @@
 <!-- Template
 ### Day : September , 2017
 **Today's Progress**: 
-
 **Thoughts**: 
+**Link to work:**
+* []()-->
+
+
+### Day 37: September 18-19, 2017
+
+**Today's Progress**: Updated CSS
+
+**Thoughts**: Spent the last few days completing coursework and reviewing a few of the Javascript exercises so I can jump back to where I left off in FCC. 
 
 **Link to work:**
-* []() -->
+* [Wonder Woman Tribute Page](https://codepen.io/ceciliaconsta3/pen/weVvBd?editors=0110)
 
 
 ### September 7-17, 2017
