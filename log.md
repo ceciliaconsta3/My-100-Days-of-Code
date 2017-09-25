@@ -6,6 +6,19 @@
 **Link to work:**
 * []()-->
 
+### Day 38: September 24, 2017
+
+**Today's Progress**: Used HTML5,CSS3, and JavaScript to create a 2D image using the Canvas API 
+
+**Thoughts**: Spent last few days prepping for the CIW Advanced HTML5 and CSS specialist certification/ final exam. I'd like to be more hands on and consistent with this challenge. Here's a thought; rather than working on unrelated code or tutorials, why not study course material <strong>WHILE</strong>  completing side projects/coding challenges?
+
+<img src= "http://media.tumblr.com/c51baf89e2f85065d669f3080c2b5cdb/tumblr_inline_n3rsrwCCcQ1qj3ir1.jpg" height="300">
+
+
+**Link to work:**
+* [2D Canvas API practice](https://codepen.io/ceciliaconsta3/full/aLBKdQ/)
+
+
 
 ### Day 37: September 18-19, 2017
 
