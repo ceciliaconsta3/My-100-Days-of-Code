@@ -18,14 +18,19 @@
 
 
 
-### Day 39: September 28, 2017
+### Day 39 : September 27-28, 2017
 
-**Today's Progress**: Added Javascript, HTML, and CSS to new pen
+**Today's Progress**: Modified CSS and used HTML Drag/Drop API
 
-**Thoughts**: Even though I got a 90% on the CIW certification exam, I feel like I glossed over HTML5 APIs. Decided to go back, and with the aid of the 70-480 Training Guide, decided to work out a few of those examples on my own.
+**Thoughts**: Nice using some of Javascripts built-in elements. Had a hiccup getting the drag target <code>div</code> to center align with the rest of the elements on the page.
 
-**Link to work:**
-* [Drag N' Drop - In Progress](https://codepen.io/ceciliaconsta3/full/JrNZbM/)
+**References:**
+* Programming in HTML5 with JavaScript and CSS3 by Glenn Johnson
+* WGU C777 Web Development Applications - CIW material
+
+**Links to work:**
+* [Modified CSS](https://codepen.io/ceciliaconsta3/full/rzRNMv/)
+* [Drag N' Drop Pen](https://codepen.io/ceciliaconsta3/full/JrNZbM/)
 
 
 ### Day 38: September 24, 2017
