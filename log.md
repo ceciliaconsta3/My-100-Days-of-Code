@@ -6,6 +6,28 @@
 **Link to work:**
 * []()-->
 
+
+### Day 40: September 30, 2017
+
+**Today's Progress**: Jquery UI/Mobile framework and hackathon workshop
+
+**Thoughts**: Went in feeling like I would do well because the workshop classes were covering HTML5, CSS, Bootstrap, JavaScript, and JQuery. Having spent 3 hours on the Broward College campus I realized that most of the students would be actually building apps using Java and Android Studio! Excited and super nervous to see how I can contribute to the presentation portion of my team's project. Inspired to look ahead at some Software I coursework.
+
+**Link to work:**
+* [Brainstorming ideas in the maroon dress](https://twitter.com/bchackathon)
+
+
+
+### Day 39: September 28, 2017
+
+**Today's Progress**: Added Javascript, HTML, and CSS to new pen
+
+**Thoughts**: Even though I got a 90% on the CIW certification exam, I feel like I glossed over HTML5 APIs. Decided to go back, and with the aid of the 70-480 Training Guide, decided to work out a few of those examples on my own.
+
+**Link to work:**
+* [Drag N' Drop - In Progress](https://codepen.io/ceciliaconsta3/full/JrNZbM/)
+
+
 ### Day 38: September 24, 2017
 
 **Today's Progress**: Used HTML5,CSS3, and JavaScript to create a 2D image using the Canvas API 
