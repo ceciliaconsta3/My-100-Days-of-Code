@@ -14,7 +14,7 @@
 **Thoughts**: Went in feeling like I would do well because the workshop classes were covering HTML5, CSS, Bootstrap, JavaScript, and JQuery. Having spent 3 hours on the Broward College campus I realized that most of the students would be actually building apps using Java and Android Studio! Excited and super nervous to see how I can contribute to the presentation portion of my team's project. Inspired to look ahead at some Software I coursework.
 
 **Link to work:**
-* [Brainstorming ideas in the maroon dress](https://twitter.com/bchackathon)
+* [Brainstorming ideas in the maroon dress](https://twitter.com/hashtag/BCHackathon2017?src=hash)
 
 
 
