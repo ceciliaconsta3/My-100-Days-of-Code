@@ -1,10 +1,19 @@
 # 100 Days Of Code - Log
 <!-- Template
-### Day : September , 2017
+### Day : October , 2017
 **Today's Progress**: 
 **Thoughts**: 
 **Link to work:**
 * []()-->
+
+### Day 41: October 4 , 2017
+
+**Today's Progress**: Modified JavaScript and completed pen
+
+**Thoughts**: Added some additional elements to the pen including a button page refresh and dynamically changing text upon <code>drop</code> event completion. 
+
+**Link to work:**
+* [Drag N' Drop Completed](https://codepen.io/ceciliaconsta3/full/JrNZbM/)
 
 
 ### Day 40: September 30, 2017
