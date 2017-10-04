@@ -13,7 +13,7 @@
 **Thoughts**: Added some additional elements to the pen including a button page refresh and dynamically changing text upon <code>drop</code> event completion. 
 
 **Link to work:**
-* [Drag N' Drop Completed](https://codepen.io/ceciliaconsta3/full/JrNZbM/)
+* [Drag N' Drop Completed](https://codepen.io/ceciliaconsta3/full/VMrGjN/)
 
 
 ### Day 40: September 30, 2017
