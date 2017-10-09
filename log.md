@@ -6,6 +6,20 @@
 **Link to work:**
 * []()-->
 
+
+### Day 42: October 8, 2017
+
+**Today's Progress**: Checked in with Codelandia, started wireframing new project, and modified CSS on FCC portfolio page
+
+**Thoughts**: Did a bit of research looking into what programming language I'd like to look start learning and narrowed it down between C# (ASP.NET, Unity) and Java (Android Studio, coursework). The basic syntax between both languages is quite similar and they both are widely used as far as industry standards go. In the end, the final decision may boil down to whichever language I can get the most exposure to, which at this point, may be Java. Also, took a peek into SCSS/LESS and Angular/React to round out my front-end knowledge. 
+
+**Link to work:**
+* [Java Basics Tutorial](https://www.sololearn.com/Profile/849354/Java)
+* [C# Basics Tutorial](https://www.sololearn.com/Profile/849354/CSharp)
+
+
+
+
 ### Day 41: October 4 , 2017
 
 **Today's Progress**: Modified JavaScript and completed pen
