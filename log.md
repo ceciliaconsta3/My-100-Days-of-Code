@@ -7,6 +7,28 @@
 * []()-->
 
 
+### Day 44: October 12-13, 2017
+
+**Today's Progress**: jQuery tutorials and review
+
+**Thoughts**: Brushing up on basics in preparation for the BCHackathon
+
+**Link to work:**
+* [JQuery review](https://www.sololearn.com/Play/jQuery)
+
+
+
+### Day 43: October 10, 2017
+
+**Today's Progress**: Advice from those who have gone ahead before me and SASS tutorial
+
+**Thoughts**: Made minor tweaks to many previous projects. Checked out Dev Material SASS for beginners tutorial
+
+**Link to work:**
+* [SASS for beginners #0](https://www.youtube.com/watch?v=Lg-pk_2_kCk)
+
+
+
 ### Day 42: October 8, 2017
 
 **Today's Progress**: Checked in with Codelandia, started wireframing new project, and modified CSS on FCC portfolio page
@@ -19,7 +41,6 @@
 
 
 
-
 ### Day 41: October 4 , 2017
 
 **Today's Progress**: Modified JavaScript and completed pen
@@ -28,6 +49,7 @@
 
 **Link to work:**
 * [Drag N' Drop Completed](https://codepen.io/ceciliaconsta3/full/VMrGjN/)
+
 
 
 ### Day 40: September 30, 2017
