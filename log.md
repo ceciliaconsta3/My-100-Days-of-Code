@@ -5,6 +5,12 @@
 **Thoughts**: 
 **Link to work:**
 * []()-->
+### Day 49: October 23, 2017
+
+**Today's Progress**: HTML, CSS
+
+**Thoughts**: Revamped everything, excited for the attractive dynamic simplicity which is to come.
+
 
 
 
