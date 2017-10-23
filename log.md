@@ -7,6 +7,53 @@
 * []()-->
 
 
+
+### Day 48: October 22, 2017
+
+**Today's Progress**: Updated Drag n' Drop, and created a TODO list
+
+**Thoughts**: Fniished the JQuery module in SoloLearn and used the information to simply the logic in my Drag n'Drop pen. Using the example provided to create and modify a ToDo list. I added the ability to press enter on the keyboard as an alternative to clicking on the enter button to add an item to the list.
+
+**Link to work:**
+* [Draft TODO list](https://jsfiddle.net/ceciliaconsta3/7jtz8a7d/)
+
+
+
+### Day 47: October 20, 2017
+
+**Today's Progress**: Closed Codelandia Issue and SoloLearn JQuery
+
+**Thoughts**: Received a response back from collaborators with administrative permission in the GitHub repo with the intent to add the Hacktober label and to become an active part of building the Budget App. Rounding out my front end knowledge by practicing the concepts in the SoloLearn JQuery module with the intent of updating previously created pens/projects and so I can complete future projects quicker.
+
+**Link to work:**
+* [Sololearn JQuery certification](https://www.sololearn.com/Certificate/1082-849354/pdf/)
+* [Label - front end request for access - the rest of the conversation is on Trello](https://github.com/Codelandia/Budget-Hero-JavaScript/issues/3)
+
+
+
+### Day 46: October 16, 2017
+
+**Today's Progress**: Pulling images and creating What's This README.md
+
+**Thoughts**: Today wasn't heavy on coding side but still filled with information. Started planning ways to implement the knowledge gained in my C773 User Interface Design course, that includes the CIW CIW User Interface Designer certification as the final objective assessment. First thing I'm going to update is my portfolio using Material Design practices. I created some wireframes and vision statements to better align my current goals and the purpose of the project.
+
+**Link to work:**
+* [Draft Style Guide](https://www.dropbox.com/s/qin6vfpdzdwe8u9/Style%20Guide.jpg?dl=0)
+* [Draft Wireframe and Features](https://www.dropbox.com/s/d0hmm5873ifmp6u/thoughts.jpg?dl=0)
+* [Draft Vision statement](https://www.dropbox.com/s/hm1mj4gnoc2do45/vision%20statement.jpg?dl=0)
+
+
+### Day 45: October 15, 2017
+
+**Today's Progress**: Pull request and rebasing my repository with changes from every branch of the original What's This repository and updating the Kiosk so it's Hacktober friendly
+
+**Thoughts**: During the hackathon each member contributed to one and at most two branches. We didn't have time to clean everything up before presenting so I went ahead and merged all of the changes from each branch. As a side project, once I'm positive everything runs cleaning on my local instance of Android Studio, I'll make some final visual updates and present it to the team for inclusion into the app store.
+
+**Link to work:**
+* [What's That updates](https://github.com/xdragon1015/WhatIsThatApp/commits?author=ceciliaconsta3&since=2017-10-01T04:00:00Z&until=2017-10-24T04:00:00Z)
+* [Kiosk changes](https://github.com/ceciliaconsta3/Kiosk/commits?author=ceciliaconsta3&since=2017-10-01T04:00:00Z&until=2017-10-24T04:00:00Z)
+
+
 ### Day 44: October 12-13, 2017
 
 **Today's Progress**: jQuery tutorials and review
