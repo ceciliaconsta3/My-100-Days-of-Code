@@ -5,6 +5,16 @@
 **Thoughts**: 
 **Link to work:**
 * []()-->
+### Day 50: October 24, 2017
+
+**Today's Progress**: Published my MVP for my FCC/working personal website. 
+
+**Thoughts**: Iteration 1 is out the way. Challenged myself to put out an MVP in 2-3 hours max before putting everything aside to work on my coursework. I struggled a bit trying to decide what I could reasonably accomplish while trying to mix in CARP or ERBU user interface design concepts. Definitely spent too much time exploring complementary and constrasting colors. Gutted Bootstrap in favor of the now native CSS flexbox features due to time constraints.
+
+**Link to work:**
+* [MVP Sprint! Iteration #1](http://ceciliaconstantine.com)
+
+
 ### Day 49: October 23, 2017
 
 **Today's Progress**: HTML, CSS
