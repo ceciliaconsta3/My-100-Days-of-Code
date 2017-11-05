@@ -1,10 +1,19 @@
 # 100 Days Of Code - Log
 <!-- Template
-### Day : October , 2017
+### Day : November , 2017
 **Today's Progress**: 
 **Thoughts**: 
 **Link to work:**
 * []()-->
+### Day 51: October 27, 2017
+
+**Today's Progress**: Completed a course and got certified
+
+**Thoughts**: Crunch time to finish up some coursework. As a result, I am now a CIW certified User Interface Designer. Interested in learning more about designing attractive, legible, and simple programs and websites.
+
+**Link to work:**
+* [CIW Exam Details](https://www.ciwcertified.com/ciw-certifications/web-and-mobile-design-series/user-interface-designer)
+
 ### Day 50: October 24, 2017
 
 **Today's Progress**: Published my MVP for my FCC/working personal website. 
