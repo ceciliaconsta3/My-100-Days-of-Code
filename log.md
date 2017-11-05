@@ -5,6 +5,25 @@
 **Thoughts**: 
 **Link to work:**
 * []()-->
+### Day 52: November 4-5, 2017
+
+**Today's Progress**: Exploring preprocessors - SASS
+
+**Thoughts**: "Analysis Paralysis" is the perfect term to describe the process I underwent in selecting a preprocessor. As someone learning Javascript I immediately thought LESS was the "correct" choice. Scoured the internet looking for local job descriptions and various blog posts and articles piting LESS vs SCSS vs SASS. I even briefly compared the quality of their respective tutorials. In the end, I decided to dive into Codecademy's SASS lesson and immediately started implementing some of the lessons into Iteration 2 of my single-page site. 
+
+I understand that LESS was originally created with Ruby and has been ported to utilize Javascript. It's said to be less verbose, less difficult to setup...LESS everything. You can create a less.js compiler file and a .less file (similar to SCSS) and reference it in your HTML head, make the changes there, and then compile it into your actual .css file at the end of development. The LESS file just needs to be uploaded to a server with the rest of your work and voila. 
+
+On the other hand, in order to use SASS I had to install Ruby to my local machine and I use the command line to compile my first .SCSS file to my designated .css file. There seems to be much debate online as far as SASSs learning curve for developers who don't work in Ruby, but I had no problem installing it on my Windows 10 machine. Though LESS seems to have better documentation, SASS/SCSS has better overall support and popularity. Because of this attention, the community makes sure that the frameworks and the preprocessor itself is well maintained. I decided to use Codecademy to get a decent grasp on this CSS extension. Unless something changes in the near future, I'm keep things simple and staying out of Compass (a SASS authoring framework that I've heard does amazing things). I've also heard that at one point, CSS Level 4 or CSS4, was supposed to incorporate some, if not all, of the features that current preprocessors possess, (variables, mixins, etc) but based on the W3.org's CSS Snapshot 2017, this doesn't seem likely. Let's not worry about that for now.
+
+**Link to work:**
+* [SASS with Codecademy](https://www.codecademy.com/courses/learn-sass/)
+
+**References:**
+* [w3](https://www.w3.org/TR/CSS/#css-levels)
+* [One of many comparison posts](http://www.hongkiat.com/blog/sass-vs-less/)
+
+
+
 ### Day 51: October 27, 2017
 
 **Today's Progress**: Completed a course and got certified
@@ -13,6 +32,8 @@
 
 **Link to work:**
 * [CIW Exam Details](https://www.ciwcertified.com/ciw-certifications/web-and-mobile-design-series/user-interface-designer)
+
+
 
 ### Day 50: October 24, 2017
 
@@ -29,7 +50,6 @@
 **Today's Progress**: HTML, CSS
 
 **Thoughts**: Revamped everything, excited for the attractive dynamic simplicity which is to come.
-
 
 
 
