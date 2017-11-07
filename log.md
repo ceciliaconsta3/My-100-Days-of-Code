@@ -5,6 +5,17 @@
 **Thoughts**: 
 **Link to work:**
 * []()-->
+### Day 53: November 6, 2017
+
+**Today's Progress**:  More on SASS
+
+**Thoughts**: Finished the "Create a SASS stylesheet" portion of the course. So far so good! With Ruby installed, I've got the compiling part down pat <code>SASS main.scss main.css</code> and nesting selectors comes naturally.
+
+**Link to work:**
+* [SASS with Codecademy](https://www.codecademy.com/courses/learn-sass/)
+
+
+
 ### Day 52: November 4-5, 2017
 
 **Today's Progress**: Exploring preprocessors - SASS
