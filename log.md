@@ -5,6 +5,19 @@
 **Thoughts**: 
 **Link to work:**
 * []()-->
+### Day 54: November 7, 2017
+
+**Today's Progress**: SASS-ing around
+
+**Thoughts**: Learned a little about nested mixins, list variables, and string interpolation (adding string into the middle of other strings) using SASS. The syntax to include the mixin inside a selector is interesting: <code>#{$variable}</code>. Now the tricky part is refactoring my CSS stylesheet in using DRY principles without fundamentally changing the output. 
+
+On another note, the VGA (monitor) to DVI-D (graphics card) cable and power cord I ordered finally arrived! Swapped out the bad ones and hooked up my <em>free</em> second-hand desktop to my <em>free</em> second-hand 19" monitor. The machine booted up in IDE mode and prompted me to update some settings. I reverted the BIOS to its default settings and it looks like there's no operating system installed. It's running on an Intel R Pentium 4 core. Tomorrow, I'll slap on my laptop's system image and explore a bit more
+
+**Link to work:**
+* [SASS with Codecademy](https://www.codecademy.com/courses/learn-sass/)
+
+
+
 ### Day 53: November 6, 2017
 
 **Today's Progress**:  More on SASS
