@@ -11,7 +11,7 @@ Follow my Progress through [Codepen](https://codepen.io/ceciliaconsta), [GitHub]
 ## Specs
 
 For every day I code outside of work, I will post, update, and share a repo of what I did that day.
-Since I'm still new to web and software development, the only exceptions to coding days would be those spent learning through completing the FreeCodeCamp’s Front End Curriculum. The goal is to progress in sound practical knowledge and skills, not breezing through the curriculum for bragging rights. During these days, I'll share a few code snippets or link to some awesome resource I found. 
+Since I'm still new to web and software development, the only exceptions to direct coding days would be those spent learning through online tutorials such as the FreeCodeCamp’s Front End Curriculum, Codecademy, etc. The goal is to progress in sound practical knowledge and skills, not breezing through the curriculum for bragging rights. During these days, I'll share a few code snippets or link to some awesome resource I found either in the log or on Twitter. 
 
 ## Contents
 * [My progress](log.md)
