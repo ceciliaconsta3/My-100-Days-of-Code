@@ -5,13 +5,51 @@
 **Thoughts**: 
 **Link to work:**
 * []()-->
+
+### Day 55: November 10, 2017
+
+**Today's Progress**:  Finished Codecademy SASS and RWD tutorials
+
+**Thoughts**: <strong>SASS</strong>: Learned a little more about SASS and creating substainable SCSS, like how Placeholders are classes made in SASS for the sole purpose of being extended. Use the modulo <code>%</code> to create and extend the class. <strong>Practical use:</strong> If you want to add a class to an item without modifying every element in your HTML document create the class in SASS and extend it to all other selectors it applies to. Here's an example:
+<pre>
+%text-center {
+	text-align: center;
+}
+.portfolio-text {
+	color: #000;
+	@extend %text-center;
+</pre>
+Overall, use placeholders for things that don’t really need to have their own class, i.e. text align, absolute positioning, etc. and only use mixins for longer variables that take in an argument else use <code>@extend</code>, which yields a much cleaner CSS output. It's a good idea to double check your CSS file to make sure your extends are working as expected.
+
+As for the Responsive Design module: I learned that Rem stands for Root em. Some responsive design tips in CSS include:
+* Differences between Em vs Rem; em is relative to the parent unit, root em is relative to the root of the browser (html)
+* Setting min and max width on paragraphs(don’t stretch excessively)
+* heights to auto (proportions are reserved when browser window stretched ) 
+* To scale background images:
+	url
+	no repeat
+	position: center
+	size: cover
+
+Something I didn’t know is that you can use a specific media feature <code>@media only screen and (max-resolution: 1080dpi)</code> to display high resolution images only on machines that have a certain dpi (dots per inch). This is a better way to make your site look appealing for those high definition displays without sacrificing load times for regular devices. 
+Also, the <code>orientation: landscape</code> media feature sounds nifty but if the site is responsive it seems like that is more than enough to address the sizing difference on landscaped devices. Case in point: I tested the first iteration of my portfolio site in landscape and it worked as expected.
+
+<em>Fun Fact:</em> Discovered while I was installing <em>Live SASS Compiler</em> in Visual Studio Code - Create a folder with a “.” At the beginning of its name. If you create a folder and rename it .vscode file explorer will give you the following message: <code>You must type a file name</code>
+All you need to do is affix a period to the name like so <code>.name.</code> and file explorer will realize you’re just naming the folder. It will eliminate the second period and voila!
+
+**Link to work:**
+* [SASS](https://www.codecademy.com/learn/learn-sass)
+* [RWD](https://www.codecademy.com/learn/learn-responsive-design)
+
+
+
 ### Day 54: November 7, 2017
 
 **Today's Progress**: SASS-ing around
 
 **Thoughts**: Learned a little about nested mixins, list variables, and string interpolation (adding string into the middle of other strings) using SASS. The syntax to include the mixin inside a selector is interesting: <code>#{$variable}</code>. Now the tricky part is refactoring my CSS stylesheet in using DRY principles without fundamentally changing the output. 
 
-On another note, the VGA (monitor) to DVI-D (graphics card) cable and power cord I ordered finally arrived! Swapped out the bad ones and hooked up my <em>free</em> second-hand desktop to my <em>free</em> second-hand 19" monitor. The machine booted up in IDE mode and prompted me to update some settings. I reverted the BIOS to its default settings and it looks like there's no operating system installed. It's running on an Intel R Pentium 4 core. Tomorrow, I'll slap on my laptop's system image and explore a bit more
+On another note, the VGA (monitor) to DVI-D (graphics card) cable and power cord I ordered finally arrived! Swapped out the bad ones and hooked up my <em>free</em> second-hand desktop to my <em>free</em> second-hand 19" monitor. The machine booted up in IDE mode and prompted me to update some settings. I reverted the BIOS to its default settings and it looks like there's no operating system installed. It's running on an Intel R Pentium 4 core. Tomorrow, I'll slap on my laptop's system image and explore a bit more.
 
 **Link to work:**
 * [SASS with Codecademy](https://www.codecademy.com/courses/learn-sass/)
