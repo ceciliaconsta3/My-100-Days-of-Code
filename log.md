@@ -8,9 +8,9 @@
 
 ### Day 55: November 10, 2017
 
-**Today's Progress**:  Finished Codecademy SASS and RWD tutorials
+**Today's Progress**:  Finished Codecademy SASS/SCSS and RWD tutorials
 
-**Thoughts**: <strong>SASS</strong>: Learned a little more about SASS and creating substainable SCSS, like how Placeholders are classes made in SASS for the sole purpose of being extended. Use the modulo <code>%</code> to create and extend the class. <strong>Practical use:</strong> If you want to add a class to an item without modifying every element in your HTML document create the class in SASS and extend it to all other selectors it applies to. Here's an example:
+**Thoughts**: <strong>SASS and SCSS/Sassy CSS</strong>: Learned a little more about SASS and creating substainable SCSS, like how Placeholders are classes made in SASS for the sole purpose of being extended. Use the modulo <code>%</code> to create and extend the class. <strong>Practical use:</strong> If you want to add a class to an item without modifying every element in your HTML document create the class in SASS and extend it to all other selectors it applies to. Here's an example:
 <pre>
 %text-center {
 	text-align: center;
@@ -38,7 +38,7 @@ Also, the <code>orientation: landscape</code> media feature sounds nifty but if 
 All you need to do is affix a period to the name like so <code>.name.</code> and file explorer will realize you’re just naming the folder. It will eliminate the second period and voila!
 
 **Link to work:**
-* [SASS](https://www.codecademy.com/learn/learn-sass)
+* [SASS/SCSS](https://www.codecademy.com/learn/learn-sass)
 * [RWD](https://www.codecademy.com/learn/learn-responsive-design)
 
 
@@ -52,7 +52,7 @@ All you need to do is affix a period to the name like so <code>.name.</code> and
 On another note, the VGA (monitor) to DVI-D (graphics card) cable and power cord I ordered finally arrived! Swapped out the bad ones and hooked up my <em>free</em> second-hand desktop to my <em>free</em> second-hand 19" monitor. The machine booted up in IDE mode and prompted me to update some settings. I reverted the BIOS to its default settings and it looks like there's no operating system installed. It's running on an Intel R Pentium 4 core. Tomorrow, I'll slap on my laptop's system image and explore a bit more.
 
 **Link to work:**
-* [SASS with Codecademy](https://www.codecademy.com/courses/learn-sass/)
+* [SASS/SCSS with Codecademy](https://www.codecademy.com/courses/learn-sass/)
 
 
 
