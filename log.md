@@ -6,6 +6,14 @@
 **Link to work:**
 * []()-->
 
+### Day 56: November 15, 2017
+
+**Today's Progress**: HTML5, SCSS
+
+**Thoughts**: Worked on portfolio site some more. Created two SCSS Maps, one for z-index and the other for font related items like size and weight. Going on short hiatus as I buckle down on coursework and entertain family.
+
+
+
 ### Day 55: November 10, 2017
 
 **Today's Progress**:  Finished Codecademy SASS/SCSS and RWD tutorials
