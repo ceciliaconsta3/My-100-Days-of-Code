@@ -6,12 +6,23 @@
 **Link to work:**
 * []()-->
 
+### Day 57: November 27, 2017
+
+**Today's Progress**: Back grom Hiatus with Udacity Git
+
+**Thoughts**: About 75% through with my website. Doing a quick review of Git before uploadng its contents on Github
+
+**Link to work:**
+* [Udacity Git](https://classroom.udacity.com/courses/ud775/lessons/2980038599/concepts/29975186190923)-->
+
+
+
+
 ### Day 56: November 15, 2017
 
 **Today's Progress**: HTML5, SCSS
 
 **Thoughts**: Worked on portfolio site some more. Created two SCSS Maps, one for z-index and the other for font related items like size and weight. Going on short hiatus as I buckle down on coursework and entertain family.
-
 
 
 ### Day 55: November 10, 2017
