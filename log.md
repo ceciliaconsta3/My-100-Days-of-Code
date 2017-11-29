@@ -8,12 +8,12 @@
 
 ### Day 57: November 27, 2017
 
-**Today's Progress**: Back grom Hiatus with Udacity Git
+**Today's Progress**: Back from Hiatus with Udacity Git
 
 **Thoughts**: About 75% through with my website. Doing a quick review of Git before uploadng its contents on Github
 
 **Link to work:**
-* [Udacity Git](https://classroom.udacity.com/courses/ud775/lessons/2980038599/concepts/29975186190923)-->
+* [Udacity Git](https://classroom.udacity.com/courses/ud775/lessons/2980038599/concepts/29975186190923)
 
 
 
