@@ -5,6 +5,17 @@
 **Thoughts**: 
 **Link to work:**
 * []()-->
+<!--### Day 59: November 30, 2017
+**Today's Progress**: 
+**Thoughts**:
+**Link to work:**
+* []()-->
+
+### Day 58: November 29, 2017
+**Today's Progress**: More Git
+
+**Thoughts**: Learned something new; used Visual Studio Code to create and open a text document from the command line using the <code>code sample-document.txt</code> command
+
 
 ### Day 57: November 27, 2017
 
