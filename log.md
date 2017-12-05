@@ -1,15 +1,16 @@
 # 100 Days Of Code - Log
 <!-- Template
-### Day : November , 2017
+### Day : December , 2017
 **Today's Progress**: 
 **Thoughts**: 
 **Link to work:**
 * []()-->
-<!--### Day 59: November 30, 2017
-**Today's Progress**: 
-**Thoughts**:
+
+### Day 59: December 5, 2017
+**Today's Progress**: Add course to WGU Slack bot
+**Thoughts**: A simple pull request  that includes the course name, number, and description
 **Link to work:**
-* []()-->
+* [WGU Sage bot commit](https://github.com/wgu-it/sage-bot/pull/16)
 
 ### Day 58: November 29, 2017
 **Today's Progress**: More Git
