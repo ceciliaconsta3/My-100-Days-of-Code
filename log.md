@@ -17,14 +17,19 @@
 
 ### Day 60: December 6, 2017
 **Today's Progress**: My site
+
 **Thoughts**: Created new repository for my personal site.
+
 **Link to work:**
+
 * [Commits](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commits/master)
 
 
 ### Day 59: December 5, 2017
 **Today's Progress**: Add course to WGU Slack bot
+
 **Thoughts**: A simple pull request  that includes the course name, number, and description
+
 **Link to work:**
 * [WGU Sage bot commit](https://github.com/wgu-it/sage-bot/pull/16)
 
