@@ -5,6 +5,22 @@
 **Thoughts**: 
 **Link to work:**
 * []()-->
+<!-- 
+### Day 61: December 7, 2017
+**Today's Progress**: Last minute updates before ITPALOOZA 2017
+**Thoughts**: Made a few adjustments and hosted entire project to hosting server via FTP
+**Link to work:**
+* [Version 2 is now live](ceciliaconstantine.com)
+* [Commits](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commits/master)
+--->
+
+
+### Day 60: December 6, 2017
+**Today's Progress**: My site
+**Thoughts**: Created new repository for my personal site.
+**Link to work:**
+* [Commits](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commits/master)
+
 
 ### Day 59: December 5, 2017
 **Today's Progress**: Add course to WGU Slack bot
