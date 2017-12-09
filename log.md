@@ -5,14 +5,15 @@
 **Thoughts**: 
 **Link to work:**
 * []()-->
-<!-- 
+
 ### Day 61: December 7, 2017
-**Today's Progress**: Last minute updates before ITPALOOZA 2017
-**Thoughts**: Made a few adjustments and hosted entire project to hosting server via FTP
+**Today's Progress**: Last minute updates before ITPALOOZA 2017 - A great experience year after year
+
+**Thoughts**: Made a few adjustments and hosted entire project to hosting server via FTP. <em>Quick tip:</em> If you ever have trouble getting your images to display on your newly posted site, make sure to check the the link path using the Developer tools and the File Explorer. If you're still having trouble, another item to vet would be the actual naming convention of the actual image files. My issue was resolved when I removed all uppercase text from the image file names and their respective names in the HTML document.
+
 **Link to work:**
 * [Version 2 is now live](ceciliaconstantine.com)
 * [Commits](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commits/master)
---->
 
 
 ### Day 60: December 6, 2017
