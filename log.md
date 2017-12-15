@@ -6,6 +6,14 @@
 **Link to work:**
 * []()-->
 
+### Day 62: December 14, 2017
+**Today's Progress**: A little bit of Git, a little bit of that
+
+**Thoughts**: Spent some time away catching up on my WGU Network and Security Foundations course. Ended that gap by completing the Udacity Navigating the Commit History section. Scratched some things off my portfolio site Todo list as well; essentially adding better looking buttons, better responsiveness to the Project section, cleaned out the assets folder, amongs some other tweaks. Now that the UI/UX is coming along, can't wait to dive deeper into adding more functionality to the site using jQuery and JavaScript. I can hear my <em>A Smarter Way to Learn JavaScript</em> workbook whispering from the bookshelf.
+
+**Link to work:**
+* [Today's site tweaks](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commits/master)
+
 ### Day 61: December 7, 2017
 **Today's Progress**: Last minute updates before ITPALOOZA 2017 - A great experience year after year
 
