@@ -5,11 +5,20 @@
 **Thoughts**: 
 **Link to work:**
 * []()-->
+### Day 63: December 16, 2017
+**Today's Progress**: Time to Grind: coursework, Java, and JUnit
+
+**Thoughts**: Tons of developments in the last few days as the term is en7efa078ff34e5ab9161b585e77b7a688fec534falopment). Needless to say, not much project-related coding outside of tutorials today. I added some more TODOs in preparation for my next coding day.
+
+**Link to work:**
+* [Super small site changes](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commit/260a8cf9b28a40f367ca528d983a242c58f9eac2)
+
+
 
 ### Day 62: December 14, 2017
 **Today's Progress**: A little bit of Git, a little bit of that
 
-**Thoughts**: Spent some time away catching up on my WGU Network and Security Foundations course. Ended that gap by completing the Udacity Navigating the Commit History section. Scratched some things off my portfolio site Todo list as well; essentially adding better looking buttons, better responsiveness to the Project section, cleaned out the assets folder, amongs some other tweaks. One of those tweaks included adding a script so that when the users window is a certain size, my little helper scroll icon will change from a finger pointer to a mouse. Now that the UI/UX is coming along, can't wait to dive deeper into adding more functionality to the site using jQuery and JavaScript. I can hear my <em>A Smarter Way to Learn JavaScript</em> workbook whispering from the bookshelf.
+**Thoughts**: Spent some time away catching up on my WGU Network and Security Foundations course. Ended that gap by completing the Udacity Navigating the Commit History section. Scratched some things off my portfolio site Todo list as well; essentially adding better looking buttons, better responsiveness to the Project section, cleaned out the assets folder, amongst some other tweaks. One of those tweaks included adding a script so that when the users window is a certain size, my little helper scroll icon will change from a finger pointer to a mouse. Now that the UI/UX is coming along, can't wait to dive deeper into adding more functionality to the site using jQuery and JavaScript. I can hear my <em>A Smarter Way to Learn JavaScript</em> workbook whispering from the bookshelf.
 
 **Link to work:**
 * [Today's site tweaks](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commits/master)
