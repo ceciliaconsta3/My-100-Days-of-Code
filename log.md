@@ -8,7 +8,7 @@
 ### Day 63: December 16, 2017
 **Today's Progress**: Time to Grind: coursework, Java, and JUnit
 
-**Thoughts**: Tons of developments in the last few days as the term is en7efa078ff34e5ab9161b585e77b7a688fec534falopment). Needless to say, not much project-related coding outside of tutorials today. I added some more TODOs in preparation for my next coding day.
+**Thoughts**: Tons of developments in the last few days as the term is ending. Needless to say, not much project-related coding outside of tutorials today. I added some more TODOs in preparation for my next coding day.
 
 **Link to work:**
 * [Super small site changes](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commit/260a8cf9b28a40f367ca528d983a242c58f9eac2)
