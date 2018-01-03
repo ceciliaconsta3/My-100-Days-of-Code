@@ -6,7 +6,39 @@
 **Link to work:**
 * []()-->
 
-<!--Notes for today: https://www.personalitypage.com/ENFJ.html -->
+<!--
+Notes for today:
+* https://www.personalitypage.com/ENFJ.html
+* Dynamically generate that footer date!
+<script type="text/javascript">
+  document.write(new Date().getFullYear());
+</script>
+* https://waffle.io/ for popvia
+Spring Term Schedule:
+Morning - POPVIA - recommendation/video chat/ schedule hours/ Trello board review
+Afternoon - #100 days/POPVIA approved side project
+Evening - WGU
+Weekends - Freelance projects
+
+
+Good way to layout CSS/SCSS
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:    Smashing Magazine
+Version:    1.1
+Last change:    05/02/08 [fixed Float bug, vf]
+Assigned to:    Vitaly Friedman (vf), Sven Lennartz (sl)
+Primary use:    Magazine 
+-------------------------------------------------------------------*/
+@import "reset.css";
+@import "layout.css";
+@import "colors.css";
+@import "typography.css";
+@import "flash.css";
+/* @import "debugging.css"; */
+
+-->
 ### Day 63: December 16, 2017
 **Today's Progress**: Time to Grind: coursework, Java, and JUnit
 
