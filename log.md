@@ -5,6 +5,8 @@
 **Thoughts**: 
 **Link to work:**
 * []()-->
+
+<!--Notes for today: https://www.personalitypage.com/ENFJ.html -->
 ### Day 63: December 16, 2017
 **Today's Progress**: Time to Grind: coursework, Java, and JUnit
 
