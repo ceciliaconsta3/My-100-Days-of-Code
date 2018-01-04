@@ -39,6 +39,19 @@ Primary use:    Magazine
 /* @import "debugging.css"; */
 
 -->
+
+
+### Day 64: January 3-4, 2017
+**Today's Progress**: End of the long hiatus
+
+**Thoughts**: Now that holidays, funerals, and final exams are over, and I'm almost moved in to my new place, I can focus my attention back to developing. Had a few users give me some feedback on my personal site before the break which I'm exciting to address. 2018 will bring a lot more challenges and struggles but I look forward to seeing the polished version of myself at its end.
+
+**Link to work:**
+* [Dynamically update Copyright year](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commit/d6524b9932a59f09b61041c9a69f53713a13dabb)
+* [Changing mobile menu on scroll](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commit/03ecb269778ce77dc7bf0410e34bdd9ed9fcd616)
+* [Change address bar on mobile OS](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commit/98f7ddd89c5e6f351122932663c85398967c4f9b)
+<img src="https://sd.keepcalm-o-matic.co.uk/i-w600/keep-calm-and-code-on-1287.jpg">
+
 ### Day 63: December 16, 2017
 **Today's Progress**: Time to Grind: coursework, Java, and JUnit
 
