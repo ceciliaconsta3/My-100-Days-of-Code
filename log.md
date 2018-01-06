@@ -8,16 +8,11 @@
 
 <!--
 Notes for today:
-* https://www.personalitypage.com/ENFJ.html
-* Dynamically generate that footer date!
-<script type="text/javascript">
-  document.write(new Date().getFullYear());
-</script>
 * https://waffle.io/ for popvia
 Spring Term Schedule:
 Morning - POPVIA - recommendation/video chat/ schedule hours/ Trello board review
-Afternoon - #100 days/POPVIA approved side project
-Evening - WGU
+Afternoon - WGU
+Evening - #100 days/POPVIA approved side project
 Weekends - Freelance projects
 
 
@@ -39,6 +34,23 @@ Primary use:    Magazine
 /* @import "debugging.css"; */
 
 -->
+### Day 65: January 5, 2017
+
+**Today's Progress**: <code>.gitignore</code> the haters while sipping that Java
+
+**Thoughts**: Learning about Java basics in one of my courses this term; C169 Scripting and Programming. I've already set up the environment, downloaded JSE, and started working out review problems in Eclipse. Though the coursework mentions using BlueJ, I decided I to use either NetBeans (used by higher level courses) or Eclipse (used in real world development environments). Already made a simple program using a handful of <code>System.out.print</code> statements, variables, and simple expressions. Exciting stuff!
+
+Also, got my hands wet creating algorithms; a set of unambiguous, executable, and terminating instructions written in a way humans can understand. It's been said before, but I don't think any of the beginner coder material I've read yet has emphasized the importance of fully thinking through solutions before laying hands on a keyboard. Software developers are essentially, problem solvers. Programming languages, IDEs, and ergonomic chairs (man I need one) are just tools to help the developer get these simple and diligent computers to do what they want.
+
+<em>Fun Fact: </em>Want to know how to move committed files without jacking everything up? All you have to do is create your directory, via command line or through the file directory, and use <code>git mv <em>filename destination</em></code>. Make sure to go in and correct the file paths in your code!
+
+<em>Fun Fact 2: </em>So you made a <code>.gitignore</code> file (assuming you used the .gitignore. file creating cheat like I did) and now you realize that git is still tracking those files. No sweat; similarly how <code>git add</code> stages new or updated files to your queue, <code>git rm --cached </code>does the opposite. Go ahead, try it.
+
+
+
+**Link to work:**
+* [First .gitignore](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commit/c3c1f585c41145d320305f3e7ada7e2147ee6559)
+* [First command line asset move](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commit/0750698cca6d770a9b5c7430b975da97b765bde4)
 
 
 ### Day 64: January 3-4, 2017
@@ -86,7 +98,6 @@ Primary use:    Magazine
 **Thoughts**: Created new repository for my personal site.
 
 **Link to work:**
-
 * [Commits](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commits/master)
 
 
