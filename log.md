@@ -15,6 +15,9 @@ Afternoon - WGU
 Evening - #100 days/POPVIA approved side project
 Weekends - Freelance projects
 
+https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a
+https://jsroadmap.com
+https://julicheng.github.io
 
 Good way to layout CSS/SCSS
 /*------------------------------------------------------------------
