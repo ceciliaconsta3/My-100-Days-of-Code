@@ -1,8 +1,10 @@
 # 100 Days Of Code - Log
 <!-- Template
-### Day : December , 2017
-**Today's Progress**: 
-**Thoughts**: 
+### Day : January , 2017
+**Today's Progress:** 
+
+**Thoughts:** 
+
 **Link to work:**
 * []()-->
 
@@ -35,8 +37,31 @@ Primary use:    Magazine
 @import "typography.css";
 @import "flash.css";
 /* @import "debugging.css"; */
-
 -->
+
+
+
+### Day 66: January 8-9, 2017
+**Today's Progress:** Giving Bubo more knowledge and <em>How to Program with Java</em>
+
+**Thoughts**: Almost moved into my new place! Boxes have been opened, new furniture has been assembled and the like. I also had the honor of jetsetting away to Bimini, Bahamas for a dear friends birthday. A balanced way to spend the last few days of the week. Unfortunately, my <code>TODO</code> list got pushed back due to the time needed to properly prepare and execute the above events. After three straight days of work, packing, moving, packing, and living it up in Bimini, I just didn't have the energy to do anything but crash at the end of each night. Jumped right back into the game with getting my Bubo (WGU IT sassy slack bot)PR merged. 
+
+I noticed a PluralSight email in my student inbox. Since WGU also provides free PluralSight and Code School access, I entered the #Take3 quiz challenge and scored beginner in Java (of course) and proficient in JavaScript (nice to know I haven't completely forgotten what I learned in the months away from FCC). No doubt it would be incredibly beneficial to complete a PluralSight path but since I've got a highly acclaimed Udemy Java course, and open Codecademy, and FCC coursework in the backlog, I'll need to revisit that idea later.
+
+While rescheduling the assignments for Scripting and Programming, I needed a way to help me review the material already covered when accessing my phone isn't feasible; think during the work commute and while performing a simple task that doesn't require undivided attention. That's where Podcasts come in! Rather than consulting some "Top 10 Best Java Podcasts", I did about 5 minutes of digging and discovered Trevor Page's <em>How to Program with Java</em>. Though only 4 episodes in, I already recommend it. One thing that I like about this podcast is that Trevor is gearing the information he shares towards better the listener's general programming skills, not solely completing tasks using this specific language. Give it a listen!
+
+<img src="https://pbs.twimg.com/profile_images/2627838167/kojjduqe0vn9h7wu9roz_400x400.jpeg" alt="How to Program with Java podcast with Trevor Page">
+
+**Link to work:**
+* [Bubo the Slack bot PR](https://github.com/wgu-it/sage-bot/commit/363fefe756ec95c59c3c9d0b6d5e768788630a04)
+* [PluralSight JS Quiz](https://twitter.com/ceciliaconsta3/status/950891013098401793)
+
+**References:**
+* [How to Program with Java iTunes Podcast List](https://itunes.apple.com/us/podcast/how-to-program-with-java-podcast/id1241340018?mt=2)
+* [How to Program with Java by Trevor Page - Coder Campus](https://howtoprogramwithjava.com/java-podcast/)
+
+
+
 ### Day 65: January 5, 2017
 
 **Today's Progress**: <code>.gitignore</code> the haters while sipping that Java
@@ -49,11 +74,10 @@ Also, got my hands wet creating algorithms; a set of unambiguous, executable, an
 
 <em>Fun Fact 2: </em>So you made a <code>.gitignore</code> file (assuming you used the .gitignore. file creating cheat like I did) and now you realize that git is still tracking those files. No sweat; similarly how <code>git add</code> stages new or updated files to your queue, <code>git rm --cached </code>does the opposite. Go ahead, try it.
 
-
-
 **Link to work:**
 * [First .gitignore](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commit/c3c1f585c41145d320305f3e7ada7e2147ee6559)
 * [First command line asset move](https://github.com/ceciliaconsta3/ceciliaconstantine.com/commit/0750698cca6d770a9b5c7430b975da97b765bde4)
+
 
 
 ### Day 64: January 3-4, 2017
