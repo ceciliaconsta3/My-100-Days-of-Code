@@ -10,7 +10,6 @@
 
 <!--
 Notes for today:
-* https://waffle.io/ for popvia
 Spring Term Schedule:
 Morning - POPVIA - recommendation/video chat/ schedule hours/ Trello board review
 Afternoon - WGU
@@ -38,7 +37,19 @@ Primary use:    Magazine
 @import "flash.css";
 /* @import "debugging.css"; */
 -->
+### Day 67: January 11-12, 2017
+**Today's Progress:** Let's refactor some of that
 
+**Thoughts:** 
+Refactored <code>main.scss</code> file to coincide with the airbnb CSS/SASS style guide standards. There's still much to improvement, especially with the usage of the <code>@extend</code> directive and IDs. I still prefer to put rules with only one property on a single line, placing a blank line before the next rule declaration. Got stuck on using the <code>Node.cloneNode()</code> method, not seeing any changes, though my function reflects the proper structure outline by the docs. Heading to bed (it's late!) to take up the keyboard another day.
+
+<img src="http://www.skipser.com/i/2/images/a1/programmer_joke1.jpg" alt="comic showing the life of a coder">
+
+**Link to work:**
+* [D67 commits](https://github.com/ceciliaconsta3/ceciliaconstantine.com/pull/4)
+
+**References:**
+* [MDN cloneNode web docs](https://developer.mozilla.org/en-US/docs/Web/API/Node/cloneNode)
 
 
 ### Day 66: January 8-9, 2017
