@@ -37,6 +37,18 @@ Primary use:    Magazine
 @import "flash.css";
 /* @import "debugging.css"; */
 -->
+
+
+### Day 68: January 14-15, 2017
+**Today's Progress:** Minor tweaks
+
+**Thoughts:** Not a lot of time today, so I focused on completing the smallest tasks from the TODO comments.
+
+**Link to work:**
+* [D68 commits](https://github.com/ceciliaconsta3/ceciliaconstantine.com/pull/5)
+
+
+
 ### Day 67: January 11-12, 2017
 **Today's Progress:** Let's refactor some of that
 
