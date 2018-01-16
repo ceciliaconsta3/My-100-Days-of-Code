@@ -38,6 +38,15 @@ Primary use:    Magazine
 /* @import "debugging.css"; */
 -->
 
+### Day 69: January 15-16, 2017
+**Today's Progress:** Toggle events
+
+**Thoughts:** Couldn't quite grasp why I wasn't seeing the changes I expected. Looked to the developer console to check for errors and sure enough there it was. Broke the toggle altogether to make sure what I was refactoring did more good than not, and put it all back together before staging, commit, and pushing the branch.
+
+**Link to work:**
+* [D69 commit](af5069769264cfae0e2f8b98e15b60f7576f294c)
+
+
 
 ### Day 68: January 14-15, 2017
 **Today's Progress:** Minor tweaks
