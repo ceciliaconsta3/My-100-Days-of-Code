@@ -15,19 +15,15 @@
 5. [Javascript Best Practices for Beginners](https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399)
 6. [Multiple Repositories](https://softwareengineering.stackexchange.com/questions/206668/using-multiple-git-repositories-instead-of-a-single-one-containing-many-apps-fro3)
 
-## Projects and Ideas
+## Courses Completed
 1. [FreeCodeCamp](https://www.freecodecamp.com)
-
-## Books (both coding and non-coding)
-
-#### Coding
+2. [Codecademy - SASS](https://classroom.udacity.com/courses/ud775)
 
 
-#### Non-coding
+## Books Read (both coding and non-coding)
 1. Grit: The Power of Passion and Perserverance by Angela Duckworth
 
 ### Other resources
-1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 
 ## Contents
 * [Overview](readme.md)
