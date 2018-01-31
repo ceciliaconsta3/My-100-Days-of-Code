@@ -9,34 +9,77 @@
 * []()-->
 
 <!--
-Notes for today:
-Spring Term Schedule:
-Morning - POPVIA - recommendation/video chat/ schedule hours/ Trello board review
-Afternoon - WGU
-Evening - #100 days/POPVIA approved side project
-Weekends - Freelance projects
-
 https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a
 https://jsroadmap.com
 https://julicheng.github.io
-
-Good way to layout CSS/SCSS
-/*------------------------------------------------------------------
-[Master Stylesheet]
-
-Project:    Smashing Magazine
-Version:    1.1
-Last change:    05/02/08 [fixed Float bug, vf]
-Assigned to:    Vitaly Friedman (vf), Sven Lennartz (sl)
-Primary use:    Magazine 
--------------------------------------------------------------------*/
-@import "reset.css";
-@import "layout.css";
-@import "colors.css";
-@import "typography.css";
-@import "flash.css";
-/* @import "debugging.css"; */
 -->
+
+
+
+### Day 74: January 29, 2017
+**Today's Progress:** PWA
+
+**Link to work:**
+* [Jan 29 commits](https://github.com/ceciliaconsta3?tab=overview&from=2018-01-29)
+
+
+
+### Day 73: January 28, 2017
+**Today's Progress:** PWAs
+
+**Link to work:**
+* [Jan 28 commits](https://github.com/ceciliaconsta3?tab=overview&from=2018-01-28)
+
+
+
+### Day 72: January 24, 2017
+**Today's Progress:** PWAs
+
+**Thoughts:** Completed a few more tasks for the project setup
+
+**Link to work:**
+* [Jan 24 commits](https://github.com/ceciliaconsta3?tab=overview&from=2018-01-24)
+
+
+
+### Day 71: January 23, 2017
+**Today's Progress:** PWAs (Progressive Web Apps) and Udacity
+
+**Thoughts:** Today was a more productive day with Popvia. I decided that with the desired features and reuirements that creating teh project as a Progressive Web App was the way to go. Using Waffle.io, I researched what exactly was a PWA, and how I could go about implementing it. One of the biggest reasons that swayed me was the fact that PWAs are:
+- [X] only runs using HTTPS (some added security for peace of mind and this doesn't include localhost for development purposes)
+- [X] accessible on all devices (no need to learn Swift to appeal to IOS users)
+- [X] retain the look and feel of mobile apps (including the option to save to the home screen like a regular app would)
+- [X] the user doesn't have to go to the Apple Store/Google Play to get it (because a surprising amount of users actually don't download new apps all the time like I do, gasp!)
+- [X] Due to file storage and other APIs the apps are available offline unlike some of their mobile responsive website counter parts
+- [X] This would give me another chance to exercise my JavaScript muscles
+
+Since I was so excited to learn more about the opportunity to create more web based products for mobile devices, I started the Udacity Intro to Progressive Web Apps course for more supplemental learning material.
+
+**Link to work:**
+* [Jan 23 commits](https://github.com/ceciliaconsta3?tab=overview&from=2018-01-23)
+* [Udacity Intro to Progressive Web Apps course](https://classroom.udacity.com/courses/ud811)
+
+
+
+### January 19, 2017
+**Today's Progress:** Balsamiq Mockups 3
+
+**Thoughts:** Not exactly coding related per se, but I used a Balsamiq free trial to create mockups and exported them to png to fit inside the repository project I'm working on in Popvia.
+
+**Link to work:**
+* [Mockup Commits](https://github.com/ceciliaconsta3?tab=overview&from=2018-01-19)
+
+
+
+### Day 70: January 17, 2017
+**Today's Progress:** Learning how to use Waffle.io
+
+**Thoughts:** Great tool! It's the love baby between GitHub and Kanban Cards. Highly recommend. Much nice.
+
+**Link to work:**
+* [That Waffle commit tho](https://github.com/ceciliaconsta3/PopVia/commits?author=ceciliaconsta3&since=2018-01-17T05:00:00Z&until=2018-01-18T05:00:00Z)
+
+
 
 ### Day 69: January 15-16, 2017
 **Today's Progress:** Toggle events
