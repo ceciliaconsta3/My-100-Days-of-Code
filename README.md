@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCodeChallenge 
+#100DaysOfCodeChallenge: Round 1: Day 74
 
 #### After reading a few Medium posts and getting exposed to the FCC community I've decided to join this challenge for a number of reasons, but mainly to accomplish the following:
 * To help me keep myself accountable
